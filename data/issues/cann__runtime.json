@@ -1,16 +1,51 @@
 [
   {
-    "iid": 764,
+    "iid": 769,
     "state": "opened",
-    "created_at": "2026-07-23",
+    "created_at": "2026-07-24",
+    "closed_at": "",
+    "author": "GuoWenbo"
+  },
+  {
+    "iid": 768,
+    "state": "opened",
+    "created_at": "2026-07-24",
+    "closed_at": "",
+    "author": "GuoWenbo"
+  },
+  {
+    "iid": 767,
+    "state": "opened",
+    "created_at": "2026-07-24",
+    "closed_at": "",
+    "author": "GuoWenbo"
+  },
+  {
+    "iid": 766,
+    "state": "closed",
+    "created_at": "2026-07-24",
+    "closed_at": "2026-07-24",
+    "author": "LiWei79"
+  },
+  {
+    "iid": 765,
+    "state": "opened",
+    "created_at": "2026-07-24",
     "closed_at": "",
     "author": "tong493"
   },
   {
+    "iid": 764,
+    "state": "closed",
+    "created_at": "2026-07-23",
+    "closed_at": "2026-07-24",
+    "author": "tong493"
+  },
+  {
     "iid": 762,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-22",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "GuoWenbo"
   },
   {
@@ -43,9 +78,9 @@
   },
   {
     "iid": 757,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-20",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "dongjiangtao"
   },
   {
@@ -141,9 +176,9 @@
   },
   {
     "iid": 741,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-15",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "zhaoyingdong"
   },
   {
@@ -162,9 +197,9 @@
   },
   {
     "iid": 738,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-15",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "liu-wei"
   },
   {
@@ -176,16 +211,16 @@
   },
   {
     "iid": 734,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-14",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "clover2044145178"
   },
   {
     "iid": 733,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-14",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "LiWei79"
   },
   {
@@ -351,9 +386,9 @@
   },
   {
     "iid": 709,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-09",
-    "closed_at": "",
+    "closed_at": "2026-07-24",
     "author": "liuzhuya"
   },
   {
