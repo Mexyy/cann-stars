@@ -1,9 +1,65 @@
 [
   {
-    "iid": 685,
+    "iid": 692,
     "state": "opened",
-    "created_at": "2026-07-24",
+    "created_at": "2026-07-25",
     "merged_at": "",
+    "closed_at": "",
+    "author": "pan-boyi"
+  },
+  {
+    "iid": 691,
+    "state": "opened",
+    "created_at": "2026-07-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "dai-zhentao"
+  },
+  {
+    "iid": 690,
+    "state": "opened",
+    "created_at": "2026-07-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yangxiaojun0126"
+  },
+  {
+    "iid": 689,
+    "state": "merged",
+    "created_at": "2026-07-25",
+    "merged_at": "2026-07-25",
+    "closed_at": "",
+    "author": "midwinter1993"
+  },
+  {
+    "iid": 688,
+    "state": "opened",
+    "created_at": "2026-07-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "chenlaoer288"
+  },
+  {
+    "iid": 687,
+    "state": "opened",
+    "created_at": "2026-07-25",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yuanshuai000"
+  },
+  {
+    "iid": 686,
+    "state": "merged",
+    "created_at": "2026-07-25",
+    "merged_at": "2026-07-25",
+    "closed_at": "",
+    "author": "li-yuan-67"
+  },
+  {
+    "iid": 685,
+    "state": "merged",
+    "created_at": "2026-07-24",
+    "merged_at": "2026-07-25",
     "closed_at": "",
     "author": "Junren6415"
   },
@@ -105,10 +161,10 @@
   },
   {
     "iid": 672,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-23",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-25",
     "author": "dai-zhentao"
   },
   {
@@ -153,9 +209,9 @@
   },
   {
     "iid": 666,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-22",
-    "merged_at": "",
+    "merged_at": "2026-07-25",
     "closed_at": "",
     "author": "cccccchao"
   },
@@ -209,9 +265,9 @@
   },
   {
     "iid": 659,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-21",
-    "merged_at": "",
+    "merged_at": "2026-07-25",
     "closed_at": "",
     "author": "xianglei_huawei"
   },
@@ -729,10 +785,10 @@
   },
   {
     "iid": 594,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-13",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-25",
     "author": "pan-boyi"
   },
   {
@@ -825,10 +881,10 @@
   },
   {
     "iid": 582,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-10",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-25",
     "author": "midwinter1993"
   },
   {
