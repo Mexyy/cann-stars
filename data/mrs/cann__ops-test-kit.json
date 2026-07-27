@@ -1,9 +1,25 @@
 [
   {
-    "iid": 47,
+    "iid": 49,
     "state": "opened",
-    "created_at": "2026-07-25",
+    "created_at": "2026-07-27",
     "merged_at": "",
+    "closed_at": "",
+    "author": "FishPotatoChen"
+  },
+  {
+    "iid": 48,
+    "state": "merged",
+    "created_at": "2026-07-26",
+    "merged_at": "2026-07-27",
+    "closed_at": "",
+    "author": "SH_jingsong"
+  },
+  {
+    "iid": 47,
+    "state": "merged",
+    "created_at": "2026-07-25",
+    "merged_at": "2026-07-27",
     "closed_at": "",
     "author": "caizhengyang"
   },
@@ -89,10 +105,10 @@
   },
   {
     "iid": 36,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-21",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-07-26",
     "author": "SH_jingsong"
   },
   {
