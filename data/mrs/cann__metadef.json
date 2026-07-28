@@ -1,9 +1,17 @@
 [
   {
-    "iid": 407,
-    "state": "opened",
-    "created_at": "2026-07-27",
+    "iid": 408,
+    "state": "closed",
+    "created_at": "2026-07-28",
     "merged_at": "",
+    "closed_at": "2026-07-28",
+    "author": "zhanj"
+  },
+  {
+    "iid": 407,
+    "state": "merged",
+    "created_at": "2026-07-27",
+    "merged_at": "2026-07-28",
     "closed_at": "",
     "author": "zhanj"
   },

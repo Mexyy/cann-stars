@@ -1,9 +1,17 @@
 [
   {
-    "iid": 109,
+    "iid": 110,
     "state": "opened",
-    "created_at": "2026-07-27",
+    "created_at": "2026-07-28",
     "merged_at": "",
+    "closed_at": "",
+    "author": "nzcalan"
+  },
+  {
+    "iid": 109,
+    "state": "merged",
+    "created_at": "2026-07-27",
+    "merged_at": "2026-07-28",
     "closed_at": "",
     "author": "maoyuanxing"
   },

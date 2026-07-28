@@ -1,5 +1,29 @@
 [
   {
+    "iid": 362,
+    "state": "opened",
+    "created_at": "2026-07-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zhangzijie"
+  },
+  {
+    "iid": 361,
+    "state": "opened",
+    "created_at": "2026-07-28",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "XieQianyi"
+  },
+  {
+    "iid": 360,
+    "state": "merged",
+    "created_at": "2026-07-28",
+    "merged_at": "2026-07-28",
+    "closed_at": "",
+    "author": "xujiachen8"
+  },
+  {
     "iid": 359,
     "state": "merged",
     "created_at": "2026-07-27",
@@ -257,9 +281,9 @@
   },
   {
     "iid": 327,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-02",
-    "merged_at": "",
+    "merged_at": "2026-07-28",
     "closed_at": "",
     "author": "yu-xinjie62"
   },
