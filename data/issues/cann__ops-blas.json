@@ -1,9 +1,16 @@
 [
   {
-    "iid": 336,
+    "iid": 337,
     "state": "opened",
-    "created_at": "2026-07-28",
+    "created_at": "2026-07-29",
     "closed_at": "",
+    "author": "eternityk"
+  },
+  {
+    "iid": 336,
+    "state": "closed",
+    "created_at": "2026-07-28",
+    "closed_at": "2026-07-29",
     "author": "eternityk"
   },
   {
@@ -43,9 +50,9 @@
   },
   {
     "iid": 330,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-27",
-    "closed_at": "",
+    "closed_at": "2026-07-29",
     "author": "2301_82146483"
   },
   {
@@ -1618,9 +1625,9 @@
   },
   {
     "iid": 84,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-30",
-    "closed_at": "",
+    "closed_at": "2026-07-29",
     "author": "xutianze"
   },
   {
