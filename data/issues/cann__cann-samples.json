@@ -1,9 +1,23 @@
 [
   {
-    "iid": 235,
+    "iid": 237,
+    "state": "closed",
+    "created_at": "2026-07-30",
+    "closed_at": "2026-07-30",
+    "author": "songkai111"
+  },
+  {
+    "iid": 236,
     "state": "opened",
-    "created_at": "2026-07-29",
+    "created_at": "2026-07-30",
     "closed_at": "",
+    "author": "CharmanderFang"
+  },
+  {
+    "iid": 235,
+    "state": "closed",
+    "created_at": "2026-07-29",
+    "closed_at": "2026-07-30",
     "author": "CDragon"
   },
   {
@@ -57,9 +71,9 @@
   },
   {
     "iid": 227,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-24",
-    "closed_at": "",
+    "closed_at": "2026-07-30",
     "author": "gavinhhr"
   },
   {

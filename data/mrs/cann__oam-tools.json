@@ -1,9 +1,17 @@
 [
   {
-    "iid": 462,
+    "iid": 463,
     "state": "opened",
-    "created_at": "2026-07-29",
+    "created_at": "2026-07-30",
     "merged_at": "",
+    "closed_at": "",
+    "author": "starchen_"
+  },
+  {
+    "iid": 462,
+    "state": "merged",
+    "created_at": "2026-07-29",
+    "merged_at": "2026-07-30",
     "closed_at": "",
     "author": "wangchuang616"
   },
@@ -97,9 +105,9 @@
   },
   {
     "iid": 450,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-24",
-    "merged_at": "",
+    "merged_at": "2026-07-30",
     "closed_at": "",
     "author": "z296249221"
   },
