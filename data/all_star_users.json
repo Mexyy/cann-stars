@@ -1,5 +1,14 @@
 [
   {
+    "user_name": "VictorTop",
+    "nick_name": "Victor",
+    "user_id": 1026710,
+    "avatar": "https://cdn-img.gitcode.com/ef/ee/196318e282f98884880eeed9ac80a18dc9843aea8dd0b155b77fd81b6c396587.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
     "user_name": "KTG",
     "nick_name": "KTG",
     "user_id": 735965,
@@ -547,7 +556,7 @@
       "cann/opbase",
       "cann/cann-samples",
       "cann/ops-cv",
-      "cann/catlass",
+      "cann/hcomm",
       "cann/atvoss",
       "cann/oam-tools",
       "cann/ops-test-kit"
@@ -5736,6 +5745,7 @@
       "cann/cann-learning-hub",
       "cann/asc-devkit",
       "cann/opbase",
+      "cann/catlass",
       "cann/asnumpy",
       "cann/pypto-gym",
       "cann/tensorflow"
@@ -7523,7 +7533,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/pypto-gym"
     ]
   },
   {
@@ -16854,7 +16865,8 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/ops-transformer",
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/cann-samples"
     ]
   },
   {
@@ -32364,7 +32376,9 @@
     "user_id": 7641849,
     "avatar": null,
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/ascend-transformer-boost"
     ]
   },
   {
@@ -32568,7 +32582,7 @@
     "user_name": "chenjiayi_",
     "nick_name": "chenjiayi_",
     "user_id": 12040759,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/cc/ac/8c8c02a60ce1cd5391688079e2519ec84be10851eb081edc3d0fb52fd9a9d933.png?time=1785573862975",
     "starred_repos": [
       "cann/ops-transformer",
       "cann/ops-nn",
@@ -34323,6 +34337,7 @@
       "cann/ops-transformer",
       "cann/opbase",
       "cann/catlass",
+      "cann/pto-isa",
       "cann/shmem"
     ]
   },
@@ -35978,6 +35993,15 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "gcw_esfXVQYp",
+    "nick_name": "Torch",
+    "user_id": 6624182,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-nn"
     ]
   },
   {
@@ -37813,6 +37837,24 @@
     ]
   },
   {
+    "user_name": "m0_74808535",
+    "nick_name": "JokerWind0",
+    "user_id": 4724160,
+    "avatar": "https://cdn-img.gitcode.com/ce/af/c3ea77febbcdfee992b8c6500f9ab3347bc89d31139fd2ebff1dabb2494fcd86.png",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
+    "user_name": "zhangguijiang165",
+    "nick_name": "张桂江",
+    "user_id": 10069396,
+    "avatar": "https://cdn-img.gitcode.com/cc/ac/cc0acf12b21dff479ccc61f6fecf8d676a84895f0f06c78ef03b5ea3a6ef9b6f.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-infer"
+    ]
+  },
+  {
     "user_name": "qunzhongjia",
     "nick_name": "qunzhongjia",
     "user_id": 10972240,
@@ -37836,7 +37878,8 @@
     "user_id": 4114914,
     "avatar": "https://cdn-img.gitcode.com/df/be/72092df3be03c8f9c35eca362ae3d5093503fe92aa192c4ccab17e26a55a5cf1.png",
     "starred_repos": [
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/cann-learning-hub"
     ]
   },
   {
@@ -47604,6 +47647,16 @@
     ]
   },
   {
+    "user_name": "zlfffan",
+    "nick_name": "Lingfan Zheng",
+    "user_id": 682449,
+    "avatar": "https://cdn-img.gitcode.com/ca/ab/002caab3c36d4df24a71c9b05cf2e96e6e3ae3f496b4bd3b7a4a9810acca3125.png",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/asc-devkit"
+    ]
+  },
+  {
     "user_name": "m0_66394106",
     "nick_name": "Colin Cao",
     "user_id": 2122747,
@@ -49808,7 +49861,8 @@
     "user_id": 591454,
     "avatar": "https://cdn-img.gitcode.com/bb/fa/b028868371361868b80faac8cfd0afd7b7b4297de8c595fe52121ac6ead5d82f.png",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-samples"
     ]
   },
   {
@@ -56954,6 +57008,7 @@
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/atvc",
+      "cann/mat-chem-sim-pred",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
