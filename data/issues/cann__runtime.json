@@ -1,9 +1,16 @@
 [
   {
-    "iid": 791,
+    "iid": 792,
     "state": "opened",
-    "created_at": "2026-08-03",
+    "created_at": "2026-08-04",
     "closed_at": "",
+    "author": "vector5"
+  },
+  {
+    "iid": 791,
+    "state": "closed",
+    "created_at": "2026-08-03",
+    "closed_at": "2026-08-04",
     "author": "weixin_51634168"
   },
   {
@@ -15,9 +22,9 @@
   },
   {
     "iid": 789,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-31",
-    "closed_at": "",
+    "closed_at": "2026-08-04",
     "author": "GuoWenbo"
   },
   {
@@ -29,9 +36,9 @@
   },
   {
     "iid": 787,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-30",
-    "closed_at": "",
+    "closed_at": "2026-08-04",
     "author": "LiWei79"
   },
   {
@@ -57,9 +64,9 @@
   },
   {
     "iid": 782,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-30",
-    "closed_at": "",
+    "closed_at": "2026-08-04",
     "author": "xiangyang0909"
   },
   {
