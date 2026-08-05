@@ -1,5 +1,21 @@
 [
   {
+    "iid": 721,
+    "state": "merged",
+    "created_at": "2026-08-05",
+    "merged_at": "2026-08-05",
+    "closed_at": "",
+    "author": "fanxiaotian6"
+  },
+  {
+    "iid": 720,
+    "state": "opened",
+    "created_at": "2026-08-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "yanyefeng"
+  },
+  {
     "iid": 719,
     "state": "opened",
     "created_at": "2026-08-04",
@@ -681,10 +697,10 @@
   },
   {
     "iid": 634,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-27",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-05",
     "author": "pangfd"
   },
   {

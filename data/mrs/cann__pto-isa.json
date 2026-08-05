@@ -1,17 +1,25 @@
 [
   {
-    "iid": 1429,
+    "iid": 1430,
     "state": "opened",
-    "created_at": "2026-08-04",
+    "created_at": "2026-08-05",
     "merged_at": "",
     "closed_at": "",
     "author": "zhhywang"
   },
   {
-    "iid": 1428,
-    "state": "opened",
+    "iid": 1429,
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
+    "closed_at": "",
+    "author": "zhhywang"
+  },
+  {
+    "iid": 1428,
+    "state": "merged",
+    "created_at": "2026-08-04",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "zhhywang"
   },
@@ -25,9 +33,9 @@
   },
   {
     "iid": 1426,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "echo_stone"
   },
@@ -57,17 +65,17 @@
   },
   {
     "iid": 1422,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "fzhar"
   },
   {
     "iid": 1421,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-03",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "Larry_liuyi"
   },
@@ -97,9 +105,9 @@
   },
   {
     "iid": 1417,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-31",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "fzhar"
   },
@@ -193,9 +201,9 @@
   },
   {
     "iid": 1405,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-29",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "nmkihail"
   },
@@ -7520,20 +7528,20 @@
     "author": "nmkihail"
   },
   {
-    "iid": 488,
-    "state": "merged",
-    "created_at": "2026-03-16",
-    "merged_at": "2026-03-16",
-    "closed_at": "",
-    "author": "jyc304691735"
-  },
-  {
     "iid": 489,
     "state": "merged",
     "created_at": "2026-03-16",
     "merged_at": "2026-03-16",
     "closed_at": "",
     "author": "omarzohir"
+  },
+  {
+    "iid": 488,
+    "state": "merged",
+    "created_at": "2026-03-16",
+    "merged_at": "2026-03-16",
+    "closed_at": "",
+    "author": "jyc304691735"
   },
   {
     "iid": 487,

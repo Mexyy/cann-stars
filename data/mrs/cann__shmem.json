@@ -1,5 +1,21 @@
 [
   {
+    "iid": 649,
+    "state": "merged",
+    "created_at": "2026-08-05",
+    "merged_at": "2026-08-05",
+    "closed_at": "",
+    "author": "vector5"
+  },
+  {
+    "iid": 648,
+    "state": "opened",
+    "created_at": "2026-08-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "zyjoschina234"
+  },
+  {
     "iid": 647,
     "state": "opened",
     "created_at": "2026-08-04",
@@ -49,10 +65,10 @@
   },
   {
     "iid": 641,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-04",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-05",
     "author": "vector5"
   },
   {
@@ -105,17 +121,17 @@
   },
   {
     "iid": 634,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-31",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "vector5"
   },
   {
     "iid": 633,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-31",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "vector5"
   },
@@ -137,9 +153,9 @@
   },
   {
     "iid": 630,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-30",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "vector5"
   },
@@ -177,10 +193,10 @@
   },
   {
     "iid": 625,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-29",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-05",
     "author": "zyjoschina234"
   },
   {

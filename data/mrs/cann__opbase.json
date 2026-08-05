@@ -1,5 +1,13 @@
 [
   {
+    "iid": 700,
+    "state": "opened",
+    "created_at": "2026-08-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "jiachengtang"
+  },
+  {
     "iid": 699,
     "state": "opened",
     "created_at": "2026-08-04",
@@ -17,9 +25,9 @@
   },
   {
     "iid": 697,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "songkai111"
   },
@@ -249,10 +257,10 @@
   },
   {
     "iid": 667,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-22",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-05",
     "author": "jiachengtang"
   },
   {

@@ -1,9 +1,25 @@
 [
   {
-    "iid": 261,
+    "iid": 263,
     "state": "opened",
-    "created_at": "2026-08-04",
+    "created_at": "2026-08-05",
     "merged_at": "",
+    "closed_at": "",
+    "author": "hqhuangae"
+  },
+  {
+    "iid": 262,
+    "state": "opened",
+    "created_at": "2026-08-05",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 261,
+    "state": "merged",
+    "created_at": "2026-08-04",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "zhengfeiteng"
   },
@@ -25,9 +41,9 @@
   },
   {
     "iid": 258,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-03",
-    "merged_at": "",
+    "merged_at": "2026-08-05",
     "closed_at": "",
     "author": "zhengfeiteng"
   },

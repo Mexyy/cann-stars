@@ -1,5 +1,53 @@
 [
   {
+    "user_name": "ugzhangyy",
+    "nick_name": "ugzhangyy",
+    "user_id": 10770960,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "yongxincc",
+    "nick_name": "yongxincc",
+    "user_id": 1057687,
+    "avatar": "https://cdn-img.gitcode.com/be/ef/bee8f6883c565d407732b8a760953e69c99bd8b7311eb8bd9e0a607f79cfe509.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "fzxlzy",
+    "nick_name": "哇丶",
+    "user_id": 3943132,
+    "avatar": "https://cdn-img.gitcode.com/ab/ab/763aba9bdd0022303702c4539fcdc6908e865b2da78b995d5f0c1619b8b058fe.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math"
+    ]
+  },
+  {
+    "user_name": "vogadero",
+    "nick_name": "Vogadero",
+    "user_id": 1365951,
+    "avatar": "https://cdn-img.gitcode.com/db/dc/d76974b484d086c27a811cedeac455855449b9a481da1b0d466076c04988b93b.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/pypto",
+      "cann/cann-samples",
+      "cann/cann-recipes-train",
+      "cann/hccl",
+      "cann/pypto-gym",
+      "cann/docs"
+    ]
+  },
+  {
     "user_name": "fhz1206",
     "nick_name": "fhz",
     "user_id": 4449473,
@@ -13,6 +61,7 @@
       "cann/cann-learning-hub",
       "cann/cann-samples",
       "cann/ops-cv",
+      "cann/cann-recipes-train",
       "cann/hccl",
       "cann/hcomm",
       "cann/pyasc",
@@ -151,8 +200,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -276,8 +325,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -314,6 +363,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/opbase",
+      "cann/cann-samples",
       "cann/runtime"
     ]
   },
@@ -564,8 +614,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -702,8 +752,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -770,6 +820,7 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-recipes-infer",
+      "cann/pypto",
       "cann/community",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
@@ -818,13 +869,14 @@
     "user_name": "gcw_JQJBklQH",
     "nick_name": "gcw_JQJBklQH",
     "user_id": 11359586,
-    "avatar": "",
+    "avatar": "https://cdn-img.gitcode.com/ba/df/1b3a63df6315fa994b5d22bd934d28c1e2f56a7e9da6afa7b10b1a3c0a8ef475.png?time=1785917893042",
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-recipes-infer",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/cann-bench"
     ]
   },
   {
@@ -1239,8 +1291,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -1435,8 +1487,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -1592,8 +1644,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/cann-launch-camp",
@@ -1685,8 +1737,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -1760,8 +1812,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -1844,8 +1896,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -2108,10 +2160,11 @@
       "cann/release-management",
       "cann/cann-agreements",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
+      "cann/ops-tensor",
       "cann/cann-launch-camp",
       "cann/ops-sparse",
       "cann/catccos",
@@ -2131,7 +2184,10 @@
       "cann/ops-fft",
       "cann/manifest",
       "cann/ops-multimodal-fusion",
-      "cann/docs"
+      "cann/docs",
+      "cann/gauss-splat",
+      "cann/asc-comm",
+      "cann/ops-gnn"
     ]
   },
   {
@@ -2183,8 +2239,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -2259,8 +2315,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -2294,12 +2350,9 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/hixl",
       "cann/community",
-      "cann/cann-learning-hub",
       "cann/opbase",
       "cann/cann-samples",
-      "cann/runtime",
       "cann/metadef",
       "cann/cann-recipes-train",
       "cann/hcomm",
@@ -2322,15 +2375,11 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
       "cann/cann-outreach",
       "cann/ops-blas",
-      "cann/ops-tensor",
       "cann/cann-launch-camp",
-      "cann/ops-sparse",
       "cann/catccos",
-      "cann/cmake",
       "cann/mat-chem-sim-pred",
       "cann/tensorflow",
       "cann/xla-npu",
@@ -2608,7 +2657,8 @@
     "user_id": 7301813,
     "avatar": null,
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/ops-transformer"
     ]
   },
   {
@@ -2794,8 +2844,8 @@
       "cann/ascend-boost-comm",
       "cann/atvc",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-sparse",
       "cann/catccos",
@@ -2824,7 +2874,8 @@
     "user_id": 7152753,
     "avatar": null,
     "starred_repos": [
-      "cann/cannbot-skills"
+      "cann/cannbot-skills",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -3256,7 +3307,8 @@
       "cann/cannbot-skills",
       "cann/ops-transformer",
       "cann/asc-devkit",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -3532,6 +3584,7 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-transformer",
       "cann/pypto"
     ]
   },
@@ -3722,8 +3775,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -3983,8 +4036,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -4152,8 +4205,8 @@
       "cann/ascend-boost-comm",
       "cann/atvc",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-sparse",
       "cann/catccos",
@@ -4214,8 +4267,8 @@
       "cann/ascend-boost-comm",
       "cann/atvc",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
@@ -4296,8 +4349,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -4339,6 +4392,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/pypto",
       "cann/cann-learning-hub",
       "cann/hccl",
@@ -4389,8 +4443,8 @@
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
@@ -4483,8 +4537,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -4726,8 +4780,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -4803,8 +4857,8 @@
       "cann/release-management",
       "cann/cann-agreements",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5099,8 +5153,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5176,8 +5230,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5505,8 +5559,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5579,8 +5633,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5654,8 +5708,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -5677,7 +5731,9 @@
       "cann/ops-rand",
       "cann/ops-fft",
       "cann/manifest",
-      "cann/ops-multimodal-fusion"
+      "cann/ops-multimodal-fusion",
+      "cann/gauss-splat",
+      "cann/asc-comm"
     ]
   },
   {
@@ -5940,8 +5996,8 @@
       "cann/asc-tools",
       "cann/atvc",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/catccos",
@@ -6159,8 +6215,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-tensor",
       "cann/ops-sparse",
@@ -6261,8 +6317,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -6331,18 +6387,21 @@
       "cann/runtime",
       "cann/catlass",
       "cann/metadef",
+      "cann/hccl",
       "cann/hcomm",
       "cann/pto-isa",
       "cann/amct",
       "cann/oam-tools",
       "cann/driver",
+      "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/sip",
       "cann/shmem",
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
       "cann/ops-blas",
-      "cann/ops-tensor"
+      "cann/ops-tensor",
+      "cann/ops-sparse"
     ]
   },
   {
@@ -6484,8 +6543,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -6668,8 +6727,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -6753,8 +6812,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -6816,8 +6875,8 @@
       "cann/atvc",
       "cann/shmem",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -6997,8 +7056,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -7080,8 +7139,8 @@
       "cann/release-management",
       "cann/cann-agreements",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -7226,8 +7285,8 @@
       "cann/release-management",
       "cann/cann-agreements",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -7419,16 +7478,6 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-learning-hub"
-    ]
-  },
-  {
-    "user_name": "fzxlzy",
-    "nick_name": "哇丶",
-    "user_id": 3943132,
-    "avatar": "https://cdn-img.gitcode.com/ab/ab/763aba9bdd0022303702c4539fcdc6908e865b2da78b995d5f0c1619b8b058fe.png",
-    "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/ops-math"
     ]
   },
   {
@@ -7648,8 +7697,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/ops-sparse",
@@ -7718,8 +7767,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/ops-sparse",
@@ -7826,7 +7875,8 @@
       "cann/community",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -10242,8 +10292,8 @@
       "cann/cann-recipes-harmony-infer",
       "cann/shmem",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -10319,8 +10369,8 @@
       "cann/cann-samples",
       "cann/ops-cv",
       "cann/atvoss",
-      "cann/ops-test-kit",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -11513,8 +11563,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -11655,7 +11705,7 @@
   },
   {
     "user_name": "rrrrcao",
-    "nick_name": "rrrrcao",
+    "nick_name": "ryan_cao",
     "user_id": 9409378,
     "avatar": null,
     "starred_repos": [
@@ -12053,8 +12103,8 @@
       "cann/ascend-transformer-boost",
       "cann/ascend-boost-comm",
       "cann/shmem",
-      "cann/ops-test-kit",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -12411,8 +12461,8 @@
       "cann/ascend-boost-comm",
       "cann/shmem",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/tensorflow",
@@ -13096,8 +13146,8 @@
       "cann/shmem",
       "cann/release-management",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
@@ -15283,8 +15333,8 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/pto-isa",
-      "cann/ops-test-kit",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -16134,7 +16184,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-samples",
-      "cann/ops-cv"
+      "cann/ops-cv",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -16661,7 +16712,8 @@
       "cann/cann-samples",
       "cann/ops-cv",
       "cann/hcomm",
-      "cann/pto-isa"
+      "cann/pto-isa",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -16855,7 +16907,8 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
-      "cann/cann-samples"
+      "cann/cann-samples",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -17534,7 +17587,8 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/opbase",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -17878,7 +17932,8 @@
       "cann/hcomm",
       "cann/atvoss",
       "cann/cann-bench",
-      "cann/ops-tensor"
+      "cann/ops-tensor",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -18315,7 +18370,8 @@
       "cann/ops-cv",
       "cann/catlass",
       "cann/hccl",
-      "cann/ascend-transformer-boost"
+      "cann/ascend-transformer-boost",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -19238,7 +19294,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -19516,8 +19573,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/pypto-gym",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -19558,6 +19615,15 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "wawa95",
+    "nick_name": "wawa",
+    "user_id": 11771036,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-math"
     ]
   },
   {
@@ -20452,24 +20518,6 @@
     ]
   },
   {
-    "user_name": "vogadero",
-    "nick_name": "Vogadero",
-    "user_id": 1365951,
-    "avatar": "https://cdn-img.gitcode.com/db/dc/d76974b484d086c27a811cedeac455855449b9a481da1b0d466076c04988b93b.png",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/ops-nn",
-      "cann/cann-recipes-infer",
-      "cann/pypto",
-      "cann/cann-samples",
-      "cann/cann-recipes-train",
-      "cann/hccl",
-      "cann/pypto-gym",
-      "cann/docs"
-    ]
-  },
-  {
     "user_name": "ConradMong",
     "nick_name": "Momus",
     "user_id": 5017738,
@@ -20560,7 +20608,7 @@
     "user_name": "m0_57371535",
     "nick_name": "sunzhiang",
     "user_id": 3570984,
-    "avatar": "https://cdn-img.gitcode.com/ba/fb/baf6b70e6eecd14dd5e0190361e1044c6c3db37176b367a9f38bbfb8f5a5c90b.png",
+    "avatar": "https://cdn-img.gitcode.com/fc/ce/f7c90c191e23c3ec41a05f5308a486041aa268faa0d6fb3b533cbc1fbf08fd33.png?time=1785900955025",
     "starred_repos": [
       "cann/ops-math",
       "cann/opbase",
@@ -30728,7 +30776,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/community",
-      "cann/catlass"
+      "cann/catlass",
+      "cann/hccl"
     ]
   },
   {
@@ -32739,6 +32788,45 @@
     ]
   },
   {
+    "user_name": "iprogram",
+    "nick_name": "iprogram",
+    "user_id": 816614,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "Hirozy",
+    "nick_name": "Hirozy",
+    "user_id": 11912134,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/pypto"
+    ]
+  },
+  {
+    "user_name": "qqq1357962",
+    "nick_name": "-_-",
+    "user_id": 12031527,
+    "avatar": "https://cdn-img.gitcode.com/cb/cd/8cb1614cd07c2cea3a60dbfe336b29c36057623a51e330dc75546492bb1cba34.jpg",
+    "starred_repos": [
+      "cann/ops-transformer"
+    ]
+  },
+  {
+    "user_name": "guaikepa",
+    "nick_name": "guaikepa",
+    "user_id": 9418887,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/pypto"
+    ]
+  },
+  {
     "user_name": "mrlw2026",
     "nick_name": "mrlw2026",
     "user_id": 10655684,
@@ -32756,6 +32844,7 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/cann-learning-hub",
+      "cann/cann-samples",
       "cann/catlass"
     ]
   },
@@ -32844,6 +32933,7 @@
     "avatar": "https://cdn-img.gitcode.com/bc/ef/944b3c263e5ff49328e744d763a94426b4da0b66823ec9c46af478c6a343ca6e.png",
     "starred_repos": [
       "cann/ops-transformer",
+      "cann/ops-nn",
       "cann/hcomm"
     ]
   },
@@ -33104,7 +33194,8 @@
     "user_id": 11979827,
     "avatar": "",
     "starred_repos": [
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/pto-isa"
     ]
   },
   {
@@ -36803,8 +36894,8 @@
       "cann/ascend-boost-comm",
       "cann/atvc",
       "cann/cann-ops-competitions",
-      "cann/ops-test-kit",
       "cann/cann-bench",
+      "cann/ops-test-kit",
       "cann/ops-blas",
       "cann/catccos",
       "cann/mat-chem-sim-pred",
@@ -36872,7 +36963,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-nn",
-      "cann/pypto"
+      "cann/pypto",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -38301,6 +38393,17 @@
     "avatar": "https://cdn-img.gitcode.com/eb/ed/941785e4be6689721721d2eb7dbb89ba25e980e3496a26f4dcbd3bd00d2622f9.jpg",
     "starred_repos": [
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "2502_94784161",
+    "nick_name": "Reaves528",
+    "user_id": 11465344,
+    "avatar": "https://cdn-img.gitcode.com/ac/ec/7153ac10ec7eda98e2e500980c169f54ec907d19a069762b5ecce684198a130e.png",
+    "starred_repos": [
+      "cann/cann-recipes-infer",
+      "cann/cann-recipes-train",
+      "cann/cann-recipes-embodied-ai"
     ]
   },
   {
@@ -41691,15 +41794,6 @@
     "starred_repos": [
       "cann/pypto",
       "cann/pypto-gym"
-    ]
-  },
-  {
-    "user_name": "guaikepa",
-    "nick_name": "guaikepa",
-    "user_id": 9418887,
-    "avatar": null,
-    "starred_repos": [
-      "cann/pypto"
     ]
   },
   {
@@ -47936,7 +48030,8 @@
     "starred_repos": [
       "cann/community",
       "cann/hccl",
-      "cann/hcomm"
+      "cann/hcomm",
+      "cann/shmem"
     ]
   },
   {
@@ -48141,6 +48236,42 @@
     "starred_repos": [
       "cann/community",
       "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "zzy1205",
+    "nick_name": "Zhengyi Zhang",
+    "user_id": 7224520,
+    "avatar": "https://cdn-img.gitcode.com/ad/be/adbec26d0e52bb644832c360b3cef483886298545a9c702e92761d566324c8cc.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "CodexBai",
+    "nick_name": "晓明同学",
+    "user_id": 813752,
+    "avatar": "https://cdn-img.gitcode.com/cb/fc/83c0042bf7c5650f26f795612cd507c3f28c7f7fef3806056ddcbbc5017eb7c0.png?time=1756886345719",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "iamlipeng",
+    "nick_name": "iamlipeng",
+    "user_id": 6618133,
+    "avatar": "https://cdn-img.gitcode.com/fc/ce/8fc8c576680eff99e6f4f73204079d37e40a935497845fbeec1993f76e0899f3.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "xuyanhe",
+    "nick_name": "xuyanhe",
+    "user_id": 3026002,
+    "avatar": "https://cdn-img.gitcode.com/eb/ba/23055e272b31bacb4530b365ddaf42b9ab000a1af9c0c86176c6ab551fb00558.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
     ]
   },
   {
@@ -57580,6 +57711,15 @@
     ]
   },
   {
+    "user_name": "RyanChang2026",
+    "nick_name": "RyanChang2026",
+    "user_id": 10852132,
+    "avatar": "https://cdn-img.gitcode.com/bb/fc/23b051607b0fcb14104323e038e05ccbafcca9742d2cace9ac5e53a93977913b.png?time=1785900545105",
+    "starred_repos": [
+      "cann/runtime"
+    ]
+  },
+  {
     "user_name": "Jason640",
     "nick_name": "Jason640",
     "user_id": 11778353,
@@ -57631,6 +57771,7 @@
     "avatar": null,
     "starred_repos": [
       "cann/runtime",
+      "cann/asnumpy",
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
@@ -59418,6 +59559,24 @@
     "avatar": null,
     "starred_repos": [
       "cann/metadef"
+    ]
+  },
+  {
+    "user_name": "Finorita",
+    "nick_name": "gcw_jWI5GqLp",
+    "user_id": 12246551,
+    "avatar": "https://cdn-img.gitcode.com/ef/cc/2083e6fcc8def9000991405f7e0ea020a3e3280c5cf2f835df9dc2cf771bc762.png?time=1785921509444",
+    "starred_repos": [
+      "cann/cann-recipes-train"
+    ]
+  },
+  {
+    "user_name": "StillWolf_Code",
+    "nick_name": "StillWolf_Code",
+    "user_id": 11860279,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cann-recipes-train"
     ]
   },
   {
@@ -65427,6 +65586,15 @@
     ]
   },
   {
+    "user_name": "gcw_apOuWplA",
+    "nick_name": "gcw_apOuWplA",
+    "user_id": 10362935,
+    "avatar": "https://cdn-img.gitcode.com/cd/dd/cd1d8dffd935a65bc0a722c65e4806bdeb4a14ad76730a1b558bc2abc5272d4c.png?time=1785840271295",
+    "starred_repos": [
+      "cann/cann-ops-competitions"
+    ]
+  },
+  {
     "user_name": "2602_95931438",
     "nick_name": "2602_95931438",
     "user_id": 12239866,
@@ -65607,51 +65775,6 @@
     ]
   },
   {
-    "user_name": "dwx1218156",
-    "nick_name": "dwx1218156",
-    "user_id": 11586967,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
-    "user_name": "Maomisir",
-    "nick_name": "youliyan",
-    "user_id": 7221726,
-    "avatar": "https://cdn-img.gitcode.com/da/cc/573170d832a18c91461613cebc2240d21de4ae11e1c7d427245e5950b6a46abc.jpg",
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
-    "user_name": "m0_57827838",
-    "nick_name": "m0_57827838",
-    "user_id": 3260976,
-    "avatar": "https://cdn-img.gitcode.com/bb/cb/640b263bcb8982b9340e6ead82efdae24fb8ba95c0c3e1c58f4e0cd75454aa7f.png",
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
-    "user_name": "hades37",
-    "nick_name": "hades37",
-    "user_id": 7779616,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
-    "user_name": "jiyingying",
-    "nick_name": "jiyingying",
-    "user_id": 828784,
-    "avatar": "https://cdn-img.gitcode.com/aa/ca/5321a600aca917c654683210714b4df9fac59bceaa19b48388132e8227132e26.png",
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
     "user_name": "gcw_XdGCDlFy",
     "nick_name": "gcw_XdGCDlFy",
     "user_id": 12235288,
@@ -65666,7 +65789,8 @@
     "user_id": 1168018,
     "avatar": "https://cdn-img.gitcode.com/de/ab/86d932e4244ab7d71d1a01e4d47ec28c3369289e2369964ce106c6bf4ee8335e.jpg",
     "starred_repos": [
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -65787,10 +65911,55 @@
     ]
   },
   {
-    "user_name": "yongxincc",
-    "nick_name": "yongxincc",
-    "user_id": 1057687,
-    "avatar": "https://cdn-img.gitcode.com/be/ef/bee8f6883c565d407732b8a760953e69c99bd8b7311eb8bd9e0a607f79cfe509.png",
+    "user_name": "dwx1218156",
+    "nick_name": "dwx1218156",
+    "user_id": 11586967,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-test-kit"
+    ]
+  },
+  {
+    "user_name": "Maomisir",
+    "nick_name": "youliyan",
+    "user_id": 7221726,
+    "avatar": "https://cdn-img.gitcode.com/da/cc/573170d832a18c91461613cebc2240d21de4ae11e1c7d427245e5950b6a46abc.jpg",
+    "starred_repos": [
+      "cann/ops-test-kit"
+    ]
+  },
+  {
+    "user_name": "m0_57827838",
+    "nick_name": "m0_57827838",
+    "user_id": 3260976,
+    "avatar": "https://cdn-img.gitcode.com/bb/cb/640b263bcb8982b9340e6ead82efdae24fb8ba95c0c3e1c58f4e0cd75454aa7f.png",
+    "starred_repos": [
+      "cann/ops-test-kit"
+    ]
+  },
+  {
+    "user_name": "hades37",
+    "nick_name": "hades37",
+    "user_id": 7779616,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-test-kit"
+    ]
+  },
+  {
+    "user_name": "jiyingying",
+    "nick_name": "jiyingying",
+    "user_id": 828784,
+    "avatar": "https://cdn-img.gitcode.com/aa/ca/5321a600aca917c654683210714b4df9fac59bceaa19b48388132e8227132e26.png",
+    "starred_repos": [
+      "cann/ops-test-kit"
+    ]
+  },
+  {
+    "user_name": "weixin_48384182",
+    "nick_name": "爱上纯净的蓝天",
+    "user_id": 2059756,
+    "avatar": "https://cdn-img.gitcode.com/ec/bb/e0c110bb164f80362b3f0f44e1ba710de565d74e76be296ab27276c4d15b5981.png",
     "starred_repos": [
       "cann/cann-outreach"
     ]
@@ -66684,6 +66853,15 @@
     "avatar": null,
     "starred_repos": [
       "cann/gauss-splat"
+    ]
+  },
+  {
+    "user_name": "li-tingyu",
+    "nick_name": "litingyu",
+    "user_id": 10282560,
+    "avatar": "https://cdn-img.gitcode.com/ba/ac/31555b8a09ac802dc934df7012a6be99101f8e5a6fe923a6049ddd4c62e0a91f.png?time=1784884794529",
+    "starred_repos": [
+      "cann/asc-comm"
     ]
   },
   {
