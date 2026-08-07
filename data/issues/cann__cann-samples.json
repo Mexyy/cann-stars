@@ -1,9 +1,23 @@
 [
   {
-    "iid": 246,
+    "iid": 248,
+    "state": "closed",
+    "created_at": "2026-08-07",
+    "closed_at": "2026-08-07",
+    "author": "Hu1L1"
+  },
+  {
+    "iid": 247,
     "state": "opened",
-    "created_at": "2026-08-05",
+    "created_at": "2026-08-06",
     "closed_at": "",
+    "author": "Hu1L1"
+  },
+  {
+    "iid": 246,
+    "state": "closed",
+    "created_at": "2026-08-05",
+    "closed_at": "2026-08-06",
     "author": "xdnjust"
   },
   {
@@ -106,9 +120,9 @@
   },
   {
     "iid": 231,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-28",
-    "closed_at": "",
+    "closed_at": "2026-08-06",
     "author": "wanshilin"
   },
   {

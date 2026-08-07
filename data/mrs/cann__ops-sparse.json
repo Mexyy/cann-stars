@@ -1,9 +1,17 @@
 [
   {
+    "iid": 101,
+    "state": "merged",
+    "created_at": "2026-08-06",
+    "merged_at": "2026-08-06",
+    "closed_at": "",
+    "author": "Twoliges"
+  },
+  {
     "iid": 100,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-06",
     "closed_at": "",
     "author": "m0_72281197"
   },
@@ -329,9 +337,9 @@
   },
   {
     "iid": 59,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-15",
-    "merged_at": "",
+    "merged_at": "2026-08-06",
     "closed_at": "",
     "author": "sushaGo"
   },
@@ -377,9 +385,9 @@
   },
   {
     "iid": 53,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-07-13",
-    "merged_at": "",
+    "merged_at": "2026-08-07",
     "closed_at": "",
     "author": "bjisdbvjhbsdvk"
   },

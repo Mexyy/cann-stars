@@ -1,5 +1,21 @@
 [
   {
+    "iid": 2200,
+    "state": "opened",
+    "created_at": "2026-08-07",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ninihihi"
+  },
+  {
+    "iid": 2199,
+    "state": "closed",
+    "created_at": "2026-08-07",
+    "merged_at": "",
+    "closed_at": "2026-08-07",
+    "author": "ninihihi"
+  },
+  {
     "iid": 2198,
     "state": "merged",
     "created_at": "2026-07-31",
@@ -12,7 +28,7 @@
     "state": "closed",
     "created_at": "2026-07-31",
     "merged_at": "",
-    "closed_at": "2026-07-31",
+    "closed_at": "2026-08-07",
     "author": "ninihihi"
   },
   {
@@ -73,26 +89,26 @@
   },
   {
     "iid": 2189,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-29",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-07",
     "author": "ninihihi"
   },
   {
     "iid": 2188,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-29",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-07",
     "author": "ninihihi"
   },
   {
     "iid": 2187,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-28",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-07",
     "author": "ninihihi"
   },
   {
