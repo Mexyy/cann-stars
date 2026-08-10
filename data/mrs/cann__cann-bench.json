@@ -1,5 +1,13 @@
 [
   {
+    "iid": 255,
+    "state": "opened",
+    "created_at": "2026-08-10",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "xuzhenghao8"
+  },
+  {
     "iid": 254,
     "state": "opened",
     "created_at": "2026-08-09",
@@ -81,9 +89,9 @@
   },
   {
     "iid": 244,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-04",
-    "merged_at": "",
+    "merged_at": "2026-08-10",
     "closed_at": "",
     "author": "xuzhenghao8"
   },
