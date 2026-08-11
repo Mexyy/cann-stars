@@ -1,5 +1,12 @@
 [
   {
+    "iid": 173,
+    "state": "opened",
+    "created_at": "2026-08-11",
+    "closed_at": "",
+    "author": "annqr"
+  },
+  {
     "iid": 172,
     "state": "opened",
     "created_at": "2026-08-10",
@@ -295,9 +302,9 @@
   },
   {
     "iid": 130,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-02",
-    "closed_at": "",
+    "closed_at": "2026-08-11",
     "author": "leedongkun30-arch"
   },
   {
@@ -316,9 +323,9 @@
   },
   {
     "iid": 125,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-29",
-    "closed_at": "",
+    "closed_at": "2026-08-11",
     "author": "alexeyvaryzgin"
   },
   {
