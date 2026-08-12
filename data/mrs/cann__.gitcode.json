@@ -1,5 +1,13 @@
 [
   {
+    "iid": 37,
+    "state": "merged",
+    "created_at": "2026-08-12",
+    "merged_at": "2026-08-12",
+    "closed_at": "",
+    "author": "wangyunxiang1"
+  },
+  {
     "iid": 36,
     "state": "merged",
     "created_at": "2026-08-11",
@@ -81,10 +89,10 @@
   },
   {
     "iid": 26,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-03",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "cui_jiahao"
   },
   {

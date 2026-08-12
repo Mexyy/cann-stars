@@ -1,9 +1,44 @@
 [
   {
-    "iid": 739,
+    "iid": 744,
     "state": "opened",
-    "created_at": "2026-08-11",
+    "created_at": "2026-08-12",
     "closed_at": "",
+    "author": "dhxiao"
+  },
+  {
+    "iid": 743,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-12",
+    "author": "runqi_zhang"
+  },
+  {
+    "iid": 742,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-12",
+    "author": "wuchengwen_oh"
+  },
+  {
+    "iid": 741,
+    "state": "opened",
+    "created_at": "2026-08-12",
+    "closed_at": "",
+    "author": "liujing987913"
+  },
+  {
+    "iid": 740,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-12",
+    "author": "u010470851"
+  },
+  {
+    "iid": 739,
+    "state": "closed",
+    "created_at": "2026-08-11",
+    "closed_at": "2026-08-12",
     "author": "tianyu52"
   },
   {
@@ -127,9 +162,9 @@
   },
   {
     "iid": 721,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-08",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "cxx03"
   },
   {
@@ -162,9 +197,9 @@
   },
   {
     "iid": 716,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-08",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "wkkk0528"
   },
   {
@@ -806,9 +841,9 @@
   },
   {
     "iid": 621,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-14",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "TreamTik"
   },
   {

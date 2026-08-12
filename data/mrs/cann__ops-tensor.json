@@ -1,5 +1,13 @@
 [
   {
+    "iid": 237,
+    "state": "opened",
+    "created_at": "2026-08-12",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "guiruoyu"
+  },
+  {
     "iid": 236,
     "state": "opened",
     "created_at": "2026-08-11",
@@ -25,9 +33,9 @@
   },
   {
     "iid": 233,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-11",
-    "merged_at": "",
+    "merged_at": "2026-08-12",
     "closed_at": "",
     "author": "liusixia_gitcode"
   },
@@ -97,9 +105,9 @@
   },
   {
     "iid": 224,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-07",
-    "merged_at": "",
+    "merged_at": "2026-08-12",
     "closed_at": "",
     "author": "Hu1L1"
   },
@@ -449,10 +457,10 @@
   },
   {
     "iid": 180,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-25",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "renzetao"
   },
   {
@@ -585,10 +593,10 @@
   },
   {
     "iid": 163,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-20",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-12",
     "author": "pzyy00"
   },
   {
