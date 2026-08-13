@@ -1,9 +1,23 @@
 [
   {
+    "iid": 312,
+    "state": "closed",
+    "created_at": "2026-08-13",
+    "closed_at": "2026-08-13",
+    "author": "ren-botao"
+  },
+  {
+    "iid": 311,
+    "state": "closed",
+    "created_at": "2026-08-13",
+    "closed_at": "2026-08-13",
+    "author": "liu-wei"
+  },
+  {
     "iid": 310,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-12",
-    "closed_at": "",
+    "closed_at": "2026-08-13",
     "author": "ren-botao"
   },
   {
@@ -92,9 +106,9 @@
   },
   {
     "iid": 297,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-06",
-    "closed_at": "",
+    "closed_at": "2026-08-13",
     "author": "yuyuanfeng"
   },
   {
