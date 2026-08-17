@@ -1,5 +1,71 @@
 [
   {
+    "user_name": "ciknife",
+    "nick_name": "小东",
+    "user_id": 3970738,
+    "avatar": "https://cdn-img.gitcode.com/de/ec/d6162ee469141c5822c4ea2c31ddfc8ae295c96281d6859e4be4b4873858dbdf.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-learning-hub",
+      "cann/ge",
+      "cann/cann-outreach"
+    ]
+  },
+  {
+    "user_name": "2401_89167927",
+    "nick_name": "2401_89167927",
+    "user_id": 7785414,
+    "avatar": "https://cdn-img.gitcode.com/bb/dd/1bb806d47d190012cdc76f4f7041429538d5c46669d87bb1340d2415ca873f50.png",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "yxd0379",
+    "nick_name": "xiandu",
+    "user_id": 9972093,
+    "avatar": "https://cdn-img.gitcode.com/ca/df/ca6dfe2ee38b1ee7210e117d1b0f38c266d2b961bf3230d1cf7ebfda10a000c9.png?time=1773111029530",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-learning-hub",
+      "cann/pyasc"
+    ]
+  },
+  {
+    "user_name": "yanwei0615",
+    "nick_name": "yanwei0615",
+    "user_id": 6914424,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/community"
+    ]
+  },
+  {
+    "user_name": "gelthin",
+    "nick_name": "gelthin",
+    "user_id": 6072446,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/cann-samples",
+      "cann/catlass",
+      "cann/hccl"
+    ]
+  },
+  {
+    "user_name": "lyz0725",
+    "nick_name": "紫金洛侠",
+    "user_id": 4744852,
+    "avatar": "https://cdn-img.gitcode.com/bd/df/bdd2698f8e3fa47a1cdc7e63fd5ea2c8ba302ca7c201f9ab8bd66be8cc2dc8ac.jpg",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/asnumpy"
+    ]
+  },
+  {
     "user_name": "anguangzhao",
     "nick_name": "anguangzhao",
     "user_id": 2599709,
@@ -205,7 +271,6 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-math",
-      "cann/ops-transformer",
       "cann/cann-learning-hub"
     ]
   },
@@ -289,7 +354,7 @@
     "user_name": "lispking",
     "nick_name": "猿禹宙",
     "user_id": 7976195,
-    "avatar": "https://cdn-img.gitcode.com/fb/ef/300755f10052be835825fb866bd3343c900261dd21dafbd9b44317ae67d18063.png?time=1785733446925",
+    "avatar": "https://cdn-img.gitcode.com/fc/df/035f9c56439d07f001ff6570a78fb62ca91ef69fe4e42ad41f87b25a8997007d.png?time=1786843689194",
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/cann-learning-hub"
@@ -318,8 +383,8 @@
       "cann/xla-npu",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/ops-rand",
       "cann/ops-fft",
+      "cann/ops-rand",
       "cann/ops-gnn"
     ]
   },
@@ -480,8 +545,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -507,11 +572,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -585,8 +650,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -611,14 +676,14 @@
       "cann/xla-npu",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
       "cann/cannbot-dsl",
+      "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -669,8 +734,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -694,14 +759,14 @@
       "cann/xla-npu",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
       "cann/cannbot-dsl",
+      "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -917,6 +982,7 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/runtime",
+      "cann/ops-cv",
       "cann/catlass",
       "cann/cann-recipes-train",
       "cann/torchtitan-npu",
@@ -926,6 +992,7 @@
       "cann/pypto-gym",
       "cann/shmem",
       "cann/cann-bench",
+      "cann/ops-blas",
       "cann/tensorflow",
       "cann/docs",
       "cann/ops-gnn"
@@ -1087,8 +1154,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -1114,11 +1181,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -1212,8 +1279,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -1239,11 +1306,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -1365,7 +1432,9 @@
     "avatar": "https://cdn-img.gitcode.com/dd/bb/1ddbb0676e0f3c8b3589997e72f6ae8a60d85619c5bc7b4c55f59dbb8778bc62.png",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/ops-nn"
+      "cann/ops-math",
+      "cann/ops-nn",
+      "cann/ops-cv"
     ]
   },
   {
@@ -1502,8 +1571,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -1529,11 +1598,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -1642,8 +1711,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -1669,11 +1738,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -1768,6 +1837,7 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/cann-learning-hub",
+      "cann/ge",
       "cann/cann-samples",
       "cann/cannbot-dsl"
     ]
@@ -1779,9 +1849,13 @@
     "avatar": "https://cdn-img.gitcode.com/ba/df/1b3a63df6315fa994b5d22bd934d28c1e2f56a7e9da6afa7b10b1a3c0a8ef475.png?time=1785917893042",
     "starred_repos": [
       "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/cann-learning-hub",
       "cann/asc-devkit",
+      "cann/opbase",
       "cann/cann-samples",
       "cann/cann-ops-competitions",
       "cann/cann-bench",
@@ -2193,8 +2267,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2220,11 +2294,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -2391,8 +2465,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2416,14 +2490,14 @@
       "cann/xla-npu",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
       "cann/cannbot-dsl",
+      "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -2555,8 +2629,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
       "cann/shmem",
@@ -2575,9 +2649,9 @@
       "cann/xla-npu",
       "cann/elec-ops-inspection",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/asnumpy-docs",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -2645,8 +2719,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2672,11 +2746,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -2721,8 +2795,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2746,14 +2820,14 @@
       "cann/xla-npu",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
       "cann/cannbot-dsl",
+      "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -2810,8 +2884,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2837,11 +2911,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -2882,8 +2956,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -2946,8 +3020,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -3076,8 +3150,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -3104,11 +3178,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -3156,8 +3230,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -3183,11 +3257,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -3232,8 +3306,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -3259,11 +3333,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -3749,8 +3823,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -4357,7 +4431,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/cann-recipes-infer"
+      "cann/cann-recipes-infer",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -4406,8 +4481,8 @@
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -4680,8 +4755,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -4707,11 +4782,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -4942,8 +5017,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -4969,11 +5044,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -5079,7 +5154,7 @@
   },
   {
     "user_name": "cyycaoyang",
-    "nick_name": "caoyang",
+    "nick_name": "caoyang1",
     "user_id": 155506,
     "avatar": "https://cdn-img.gitcode.com/db/be/dbbeb0ff1458234a17a222e9c937ea301acc1a25da15e79ab7c658a971bb36d0.png",
     "starred_repos": [
@@ -5113,8 +5188,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5133,10 +5208,10 @@
       "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
+      "cann/ops-fft",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
-      "cann/ops-rand",
-      "cann/ops-fft"
+      "cann/ops-rand"
     ]
   },
   {
@@ -5175,8 +5250,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5255,8 +5330,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5282,11 +5357,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -5444,8 +5519,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5471,11 +5546,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -5687,8 +5762,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5714,11 +5789,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -5763,8 +5838,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -5791,11 +5866,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -6061,8 +6136,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -6088,11 +6163,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -6467,8 +6542,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -6494,11 +6569,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -6541,8 +6616,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -6568,11 +6643,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -6616,8 +6691,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -6643,11 +6718,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/gauss-splat",
@@ -6951,6 +7026,7 @@
       "cann/pypto",
       "cann/asc-devkit",
       "cann/opbase",
+      "cann/graph-autofusion",
       "cann/catlass",
       "cann/hccl",
       "cann/hcomm",
@@ -7129,8 +7205,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -7152,9 +7228,9 @@
       "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/manifest"
     ]
   },
@@ -7231,8 +7307,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -7257,11 +7333,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -7311,6 +7387,7 @@
       "cann/ops-cv",
       "cann/catlass",
       "cann/metadef",
+      "cann/torchtitan-npu",
       "cann/hccl",
       "cann/hcomm",
       "cann/pto-isa",
@@ -7461,8 +7538,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -7487,11 +7564,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/manifest"
     ]
   },
@@ -7645,8 +7722,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -7672,11 +7749,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -7730,8 +7807,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -7796,8 +7873,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/atvc",
@@ -7852,8 +7929,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/shmem",
       "cann/release-management",
@@ -7975,8 +8052,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -8002,11 +8079,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest"
     ]
@@ -8059,8 +8136,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -8085,11 +8162,11 @@
       "cann/ops-collections",
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/manifest"
     ]
   },
@@ -8204,8 +8281,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -8275,7 +8352,7 @@
     "user_name": "Earlzill",
     "nick_name": "Early",
     "user_id": 10964248,
-    "avatar": "https://cdn-img.gitcode.com/eb/ad/e982b8ad0be636d936b24aa702e8c03ee5e789b8ad3b5aacc07ba70e10953de7.png?time=1782800263257",
+    "avatar": "https://cdn-img.gitcode.com/be/de/0b9ed8ea1a31229af706a5215501bc451a13f5ef844e1566647c61e98f62cc23.png?time=1786950790805",
     "starred_repos": [
       "cann/cannbot-skills"
     ]
@@ -8621,8 +8698,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -8645,11 +8722,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/manifest"
     ]
   },
@@ -8691,8 +8768,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -8715,11 +8792,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs"
@@ -9226,6 +9303,7 @@
       "cann/cann-learning-hub",
       "cann/pypto",
       "cann/cann-samples",
+      "cann/runtime",
       "cann/pto-isa",
       "cann/pypto-gym",
       "cann/cannbot-dsl"
@@ -9445,6 +9523,7 @@
       "cann/cannbot-skills",
       "cann/ops-math",
       "cann/asc-devkit",
+      "cann/ops-sparse",
       "cann/ops-gnn"
     ]
   },
@@ -11225,8 +11304,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/shmem",
       "cann/cann-ops-competitions",
@@ -12406,8 +12485,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -12492,8 +12571,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -12518,11 +12597,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -13391,8 +13470,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -13484,8 +13563,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14077,8 +14156,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14104,11 +14183,11 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/ops-multimodal-fusion",
       "cann/manifest",
       "cann/docs",
@@ -14152,8 +14231,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14508,6 +14587,7 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn",
+      "cann/cann-recipes-infer",
       "cann/community",
       "cann/asc-devkit",
       "cann/opbase",
@@ -14763,8 +14843,8 @@
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14859,8 +14939,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14926,8 +15006,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -14988,8 +15068,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15036,8 +15116,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -15224,8 +15304,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15270,8 +15350,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15318,8 +15398,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15457,8 +15537,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15543,8 +15623,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15654,8 +15734,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -15913,8 +15993,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -16172,8 +16252,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -16380,8 +16460,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -16543,8 +16623,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -16918,8 +16998,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -16942,10 +17022,10 @@
       "cann/elec-ops-inspection",
       "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
-      "cann/ops-fft",
       "cann/manifest"
     ]
   },
@@ -17332,8 +17412,7 @@
     "user_id": 5580717,
     "avatar": null,
     "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/asc-devkit"
+      "cann/cannbot-skills"
     ]
   },
   {
@@ -18782,8 +18861,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -18925,6 +19004,7 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
+      "cann/cann-learning-hub",
       "cann/pypto",
       "cann/community",
       "cann/opbase",
@@ -19035,8 +19115,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -19268,8 +19348,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -19497,8 +19577,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -19640,8 +19720,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -19868,8 +19948,8 @@
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -20448,8 +20528,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -20530,7 +20610,8 @@
       "cann/cann-samples",
       "cann/ops-cv",
       "cann/atvoss",
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -20546,15 +20627,6 @@
     ]
   },
   {
-    "user_name": "luwenxiang1998",
-    "nick_name": "luwenxiang",
-    "user_id": 7619393,
-    "avatar": "https://cdn-img.gitcode.com/eb/cc/e3b2cca2dc397e646bf4c3185adc1e45051731c55cfcf08d848110243ec1eadb.png?time=1786783524314",
-    "starred_repos": [
-      "cann/ops-math"
-    ]
-  },
-  {
     "user_name": "ChipCamp",
     "nick_name": "ChipCamp",
     "user_id": 5972130,
@@ -20563,6 +20635,15 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "luwenxiang1998",
+    "nick_name": "luwenxiang",
+    "user_id": 7619393,
+    "avatar": "https://cdn-img.gitcode.com/eb/cc/e3b2cca2dc397e646bf4c3185adc1e45051731c55cfcf08d848110243ec1eadb.png?time=1786783524314",
+    "starred_repos": [
+      "cann/ops-math"
     ]
   },
   {
@@ -20585,6 +20666,7 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-math",
+      "cann/ops-transformer",
       "cann/cann-ops-competitions"
     ]
   },
@@ -21745,7 +21827,7 @@
     ]
   },
   {
-    "user_name": "weixin_51532309",
+    "user_name": "flyingXLB",
     "nick_name": "flyingXLB",
     "user_id": 3983512,
     "avatar": "https://cdn-img.gitcode.com/de/fd/de3f9d4836628935ec251204eef4a9f69efa80f233eec41d71a1423c189beaa3.png?time=1776837612446",
@@ -21814,8 +21896,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/shmem"
     ]
   },
@@ -22156,7 +22238,8 @@
     "avatar": null,
     "starred_repos": [
       "cann/ops-math",
-      "cann/ops-transformer"
+      "cann/ops-transformer",
+      "cann/cann-samples"
     ]
   },
   {
@@ -22410,8 +22493,8 @@
       "cann/atvoss",
       "cann/oam-tools",
       "cann/driver",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/release-management",
       "cann/cann-spack-package"
     ]
@@ -22691,17 +22774,6 @@
     "avatar": "https://cdn-img.gitcode.com/bf/bf/b7f7bfb73c25559c1af48384d518573a5403de8567151ac9da0e5bcda4d9d40f.jpg",
     "starred_repos": [
       "cann/ops-math"
-    ]
-  },
-  {
-    "user_name": "lyz0725",
-    "nick_name": "紫金洛侠",
-    "user_id": 4744852,
-    "avatar": "https://cdn-img.gitcode.com/bd/df/bdd2698f8e3fa47a1cdc7e63fd5ea2c8ba302ca7c201f9ab8bd66be8cc2dc8ac.jpg",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/asnumpy"
     ]
   },
   {
@@ -23283,8 +23355,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
       "cann/atvc",
@@ -23866,8 +23938,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -23909,8 +23981,8 @@
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -23969,8 +24041,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24015,8 +24087,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24060,8 +24132,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24105,8 +24177,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24146,8 +24218,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24192,8 +24264,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24239,8 +24311,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24284,8 +24356,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24332,8 +24404,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
@@ -24376,8 +24448,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24419,8 +24491,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24462,8 +24534,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24534,8 +24606,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24597,8 +24669,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24637,8 +24709,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24680,8 +24752,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24726,8 +24798,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24770,8 +24842,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24860,8 +24932,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24903,8 +24975,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24947,8 +25019,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -24992,8 +25064,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25033,8 +25105,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25078,8 +25150,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25123,8 +25195,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25168,8 +25240,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25213,8 +25285,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25258,8 +25330,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25302,8 +25374,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25347,8 +25419,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25391,8 +25463,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25436,8 +25508,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25479,8 +25551,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25525,8 +25597,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25569,8 +25641,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25614,8 +25686,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25659,8 +25731,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25700,8 +25772,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm"
@@ -25742,8 +25814,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25787,8 +25859,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25877,8 +25949,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25922,8 +25994,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -25965,8 +26037,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26034,8 +26106,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26077,8 +26149,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26121,8 +26193,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -26151,8 +26223,8 @@
       "cann/hcomm",
       "cann/pto-isa",
       "cann/pyasc",
-      "cann/sip",
-      "cann/asc-tools"
+      "cann/asc-tools",
+      "cann/sip"
     ]
   },
   {
@@ -26187,8 +26259,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26231,8 +26303,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26270,8 +26342,8 @@
       "cann/pyasc",
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-spatial-intelligence",
       "cann/shmem"
     ]
@@ -26310,8 +26382,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26399,8 +26471,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26445,8 +26517,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26490,8 +26562,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26535,8 +26607,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26582,8 +26654,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26628,8 +26700,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26672,8 +26744,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
@@ -26716,8 +26788,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26789,8 +26861,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26834,8 +26906,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26879,8 +26951,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26923,8 +26995,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -26963,8 +27035,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -27006,8 +27078,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27051,8 +27123,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27096,8 +27168,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27141,8 +27213,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
@@ -27185,8 +27257,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27229,8 +27301,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27274,8 +27346,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27318,8 +27390,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27363,8 +27435,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27408,8 +27480,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27453,8 +27525,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27497,8 +27569,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27543,8 +27615,8 @@
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
       "cann/pypto-gym",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27586,8 +27658,8 @@
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27630,8 +27702,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27676,8 +27748,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27749,8 +27821,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27838,8 +27910,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -27929,8 +28001,8 @@
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -28009,8 +28081,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -28356,8 +28428,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -28501,8 +28573,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -28866,8 +28938,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -28930,6 +29002,8 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/cann-learning-hub",
+      "cann/hixl",
+      "cann/ops-cv",
       "cann/asnumpy"
     ]
   },
@@ -28967,8 +29041,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -29137,8 +29211,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -29529,8 +29603,8 @@
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -29997,8 +30071,8 @@
       "cann/amct",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/shmem",
@@ -30353,8 +30427,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -30596,8 +30670,8 @@
       "cann/oam-tools",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -30761,8 +30835,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -30806,8 +30880,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -31024,8 +31098,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -32415,8 +32489,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -33033,8 +33107,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -33516,8 +33590,8 @@
       "cann/atvoss",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
       "cann/ascend-boost-comm",
@@ -33708,8 +33782,8 @@
       "cann/oam-tools",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
       "cann/atvc"
@@ -33766,6 +33840,31 @@
       "cann/ops-math",
       "cann/ops-transformer",
       "cann/catlass"
+    ]
+  },
+  {
+    "user_name": "gcw_PAVrzQ2r",
+    "nick_name": "cs_zhj",
+    "user_id": 5984638,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/torchtitan-npu",
+      "cann/hccl"
+    ]
+  },
+  {
+    "user_name": "bskfff",
+    "nick_name": "bskfff",
+    "user_id": 12291215,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/ge",
+      "cann/torchtitan-npu",
+      "cann/hcomm",
+      "cann/cann-ops-competitions"
     ]
   },
   {
@@ -35704,8 +35803,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -35748,8 +35847,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/ascend-boost-comm",
@@ -37247,6 +37346,7 @@
       "cann/asc-devkit",
       "cann/cann-samples",
       "cann/ops-cv",
+      "cann/catlass",
       "cann/oam-tools",
       "cann/ops-test-kit",
       "cann/ops-fft",
@@ -37631,6 +37731,27 @@
     ]
   },
   {
+    "user_name": "Wang-yuhang",
+    "nick_name": "shutong",
+    "user_id": 11956110,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-nn",
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/cann-samples"
+    ]
+  },
+  {
+    "user_name": "zhaosusu",
+    "nick_name": "zhaosusu",
+    "user_id": 6573477,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-nn"
+    ]
+  },
+  {
     "user_name": "ZZHow",
     "nick_name": "ZZHow",
     "user_id": 3180469,
@@ -37638,16 +37759,6 @@
     "starred_repos": [
       "cann/ops-nn",
       "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "bskfff",
-    "nick_name": "bskfff",
-    "user_id": 12291215,
-    "avatar": null,
-    "starred_repos": [
-      "cann/ops-nn",
-      "cann/hcomm"
     ]
   },
   {
@@ -38026,8 +38137,8 @@
       "cann/driver",
       "cann/cann-recipes-embodied-ai",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/infrastructure",
       "cann/cann-recipes-spatial-intelligence",
@@ -39505,6 +39616,15 @@
     "avatar": "https://cdn-img.gitcode.com/eb/ed/941785e4be6689721721d2eb7dbb89ba25e980e3496a26f4dcbd3bd00d2622f9.jpg",
     "starred_repos": [
       "cann/ops-nn"
+    ]
+  },
+  {
+    "user_name": "wz0100",
+    "nick_name": "wz0100",
+    "user_id": 12223647,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cann-recipes-infer"
     ]
   },
   {
@@ -41142,8 +41262,8 @@
       "cann/atvoss",
       "cann/driver",
       "cann/triton-inference-server-ge-backend",
-      "cann/sip",
       "cann/asc-tools",
+      "cann/sip",
       "cann/cann-recipes-harmony-infer",
       "cann/atvc",
       "cann/release-management",
@@ -41236,7 +41356,7 @@
   },
   {
     "user_name": "gcw_WTfSfUy7",
-    "nick_name": "wangmm",
+    "nick_name": "Mervin",
     "user_id": 7772477,
     "avatar": "",
     "starred_repos": [
@@ -42979,23 +43099,114 @@
     ]
   },
   {
+    "user_name": "gcw_jfR1ANzz",
+    "nick_name": "然",
+    "user_id": 12333857,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "2301_82205515",
+    "nick_name": "季华荆棘好",
+    "user_id": 944286,
+    "avatar": "https://cdn-img.gitcode.com/ab/ea/ab1e31aed0c981eadd979c9ba0fdb1f0f1651baad1ff5fe8b3c287a03128d21e.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "Degeneracy-Evil",
+    "nick_name": "海",
+    "user_id": 10304698,
+    "avatar": "https://cdn-img.gitcode.com/fa/cd/3f0a421c8d37987a9c5ede2bfc9d2b8417d831bbbd1b204e6143adb00188b180.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "gcw_fk1JZ8ls",
+    "nick_name": "Lee",
+    "user_id": 7624379,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/asc-devkit",
+      "cann/cann-ops-competitions"
+    ]
+  },
+  {
+    "user_name": "luby260226",
+    "nick_name": "luby260226",
+    "user_id": 10193059,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/infrastructure"
+    ]
+  },
+  {
+    "user_name": "Jsharp20",
+    "nick_name": "Jsharp",
+    "user_id": 1795336,
+    "avatar": "https://cdn-img.gitcode.com/eb/dc/eb4875d2c13d6572cba0460c69a59ca94f841f0414a6ec978f702966b24f3eec.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "m0_52900670",
+    "nick_name": "饺子张24",
+    "user_id": 927875,
+    "avatar": "https://cdn-img.gitcode.com/ca/cb/423c2a69cbd83dad082c524e08c58c3e1f947aa7453fc8658eca7e2d82940b0f.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "gqdmx",
+    "nick_name": "过期的萌新",
+    "user_id": 867752,
+    "avatar": "https://cdn-img.gitcode.com/ec/ff/ec0f1f9f82e9f15fa6ab920b820bd8103c18d2214a4dad9d806333556f5f4c02.png?time=1774759923922",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "awa_Liny",
+    "nick_name": "awa_Liny",
+    "user_id": 739811,
+    "avatar": "https://cdn-img.gitcode.com/cb/eb/c2b57e9074358b4467b1c335b24bf9cd16ce1800e927c0887b5c9027ae1bd46a.png",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "weixin_53562472",
+    "nick_name": "A HOLLOWcsw",
+    "user_id": 1322004,
+    "avatar": "https://cdn-img.gitcode.com/cb/bd/c0010b1bde3b09311601f90d4298f05d68befe86a0387492f6fa0ab5a6782c64.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "JiaCWANG",
+    "nick_name": "JiaCWANG",
+    "user_id": 943139,
+    "avatar": "https://cdn-img.gitcode.com/aa/cd/aacda2ea46f383ea6f5df49218bba90778a1682162c5e281a3c505bec0b06e04.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
     "user_name": "lzzlqwe",
     "nick_name": "Lzhili",
     "user_id": 4510657,
     "avatar": "https://cdn-img.gitcode.com/ea/ee/81ea6eea156432941880e3c4940cac6d75493338cd2b103f95b08545d5d14870.png",
     "starred_repos": [
       "cann/cann-learning-hub"
-    ]
-  },
-  {
-    "user_name": "Wang-yuhang",
-    "nick_name": "shutong",
-    "user_id": 11956110,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-learning-hub",
-      "cann/asc-devkit",
-      "cann/cann-samples"
     ]
   },
   {
@@ -43252,17 +43463,6 @@
     "avatar": "https://cdn-img.gitcode.com/bd/ae/1bd43a1e6e7de163e9e13c103e361ff022cb628488667fc5b683080478bbb1c7.jpg",
     "starred_repos": [
       "cann/cann-learning-hub"
-    ]
-  },
-  {
-    "user_name": "ciknife",
-    "nick_name": "小东",
-    "user_id": 3970738,
-    "avatar": "https://cdn-img.gitcode.com/de/ec/d6162ee469141c5822c4ea2c31ddfc8ae295c96281d6859e4be4b4873858dbdf.jpg",
-    "starred_repos": [
-      "cann/cann-learning-hub",
-      "cann/ge",
-      "cann/cann-outreach"
     ]
   },
   {
@@ -47042,16 +47242,6 @@
     ]
   },
   {
-    "user_name": "yxd0379",
-    "nick_name": "xiandu",
-    "user_id": 9972093,
-    "avatar": "https://cdn-img.gitcode.com/ca/df/ca6dfe2ee38b1ee7210e117d1b0f38c266d2b961bf3230d1cf7ebfda10a000c9.png?time=1773111029530",
-    "starred_repos": [
-      "cann/cann-learning-hub",
-      "cann/pyasc"
-    ]
-  },
-  {
     "user_name": "chenhaiyan",
     "nick_name": "chenhaiyan",
     "user_id": 9703660,
@@ -47059,6 +47249,15 @@
     "starred_repos": [
       "cann/cann-learning-hub",
       "cann/community"
+    ]
+  },
+  {
+    "user_name": "zenyong88",
+    "nick_name": "zenyong88",
+    "user_id": 12355200,
+    "avatar": null,
+    "starred_repos": [
+      "cann/pypto"
     ]
   },
   {
@@ -47302,9 +47501,9 @@
   },
   {
     "user_name": "gcw_cA68xn2y",
-    "nick_name": "gcw_cA68xn2y",
+    "nick_name": "wxid_7i2639p2wxsk12",
     "user_id": 9017441,
-    "avatar": "",
+    "avatar": "https://cdn-img.gitcode.com/db/be/8d2bb135e52890dfc06f7179613913a69de9f9159a0072f7f7924993bda291c2.png",
     "starred_repos": [
       "cann/pypto",
       "cann/catlass",
@@ -48387,7 +48586,7 @@
   },
   {
     "user_name": "gcw_O9sMYd0K",
-    "nick_name": "gcw_O9sMYd0K",
+    "nick_name": "chenmingchao",
     "user_id": 9566161,
     "avatar": "",
     "starred_repos": [
@@ -49564,6 +49763,7 @@
     "avatar": "",
     "starred_repos": [
       "cann/hixl",
+      "cann/torchtitan-npu",
       "cann/catccos"
     ]
   },
@@ -50404,7 +50604,7 @@
   },
   {
     "user_name": "CosmosNing",
-    "nick_name": "CosmosNing",
+    "nick_name": "李宁健",
     "user_id": 11448181,
     "avatar": null,
     "starred_repos": [
@@ -52558,15 +52758,6 @@
     ]
   },
   {
-    "user_name": "yanwei0615",
-    "nick_name": "yanwei0615",
-    "user_id": 6914424,
-    "avatar": null,
-    "starred_repos": [
-      "cann/community"
-    ]
-  },
-  {
     "user_name": "ququde",
     "nick_name": "ququde",
     "user_id": 11156508,
@@ -53367,6 +53558,24 @@
     "starred_repos": [
       "cann/community",
       "cann/opbase"
+    ]
+  },
+  {
+    "user_name": "gcw_EpKwTnNc",
+    "nick_name": "gcw_EpKwTnNc",
+    "user_id": 10386387,
+    "avatar": "",
+    "starred_repos": [
+      "cann/asc-devkit"
+    ]
+  },
+  {
+    "user_name": "zhang-kai271",
+    "nick_name": "zhang-kai271",
+    "user_id": 5503657,
+    "avatar": null,
+    "starred_repos": [
+      "cann/asc-devkit"
     ]
   },
   {
@@ -57728,7 +57937,7 @@
     ]
   },
   {
-    "user_name": "wangyanxue08",
+    "user_name": "wzx_0826",
     "nick_name": "小白学习者",
     "user_id": 2185599,
     "avatar": "https://cdn-img.gitcode.com/fc/df/9f598379c5d3f5924ccde7080a537bea5ed99e0679a1d7cb255f5ff9970b6f35.png",
@@ -58363,6 +58572,16 @@
     ]
   },
   {
+    "user_name": "HertzHan",
+    "nick_name": "HertzHan",
+    "user_id": 6672706,
+    "avatar": "https://cdn-img.gitcode.com/bc/dd/3b679cdda838a0512fac02d9dab0300ceeb4de8f8a66acfc55855742f4657936.png?time=1778660750947",
+    "starred_repos": [
+      "cann/cann-samples",
+      "cann/ops-test-kit"
+    ]
+  },
+  {
     "user_name": "weixin_73605337",
     "nick_name": "干饭王",
     "user_id": 2084194,
@@ -58398,16 +58617,6 @@
     "avatar": "",
     "starred_repos": [
       "cann/cann-samples"
-    ]
-  },
-  {
-    "user_name": "gelthin",
-    "nick_name": "gelthin",
-    "user_id": 6072446,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cann-samples",
-      "cann/catlass"
     ]
   },
   {
@@ -58964,6 +59173,15 @@
     ]
   },
   {
+    "user_name": "zyf19961",
+    "nick_name": "zyf1996",
+    "user_id": 7073916,
+    "avatar": "https://cdn-img.gitcode.com/de/ed/083de5e99d9233eea2232176d81e7fa52b42a9004b7d1161b385ae10d6ee1c1e.png",
+    "starred_repos": [
+      "cann/runtime"
+    ]
+  },
+  {
     "user_name": "liyanqing14",
     "nick_name": "liyanqing14",
     "user_id": 863561,
@@ -59108,15 +59326,17 @@
       "cann/mat-chem-sim-pred",
       "cann/ops-collections",
       "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
       "cann/cannbot-dsl",
+      "cann/elec-ops-prediction",
       "cann/.gitcode",
+      "cann/ops-fft",
       "cann/cann-spack-package",
       "cann/asnumpy-docs",
       "cann/elec-ops-simulation",
       "cann/ops-rand",
       "cann/manifest",
-      "cann/ops-gnn"
+      "cann/ops-gnn",
+      "cann/its-stable-llm"
     ]
   },
   {
@@ -60061,6 +60281,15 @@
     "starred_repos": [
       "cann/runtime",
       "cann/driver"
+    ]
+  },
+  {
+    "user_name": "cxx03",
+    "nick_name": "zhangjunkai9",
+    "user_id": 10000897,
+    "avatar": null,
+    "starred_repos": [
+      "cann/ops-cv"
     ]
   },
   {
@@ -63477,6 +63706,24 @@
     ]
   },
   {
+    "user_name": "gaoyangzhao",
+    "nick_name": "gaoyangzhao",
+    "user_id": 339032,
+    "avatar": "https://cdn-img.gitcode.com/aa/ca/a0acaafdfc8ee2f3c04c4536f51d0850f77ccd214822119c73d5a15c72536209.png?time=1781082282228",
+    "starred_repos": [
+      "cann/hccl"
+    ]
+  },
+  {
+    "user_name": "zhangsiou",
+    "nick_name": "zhangsiou",
+    "user_id": 12350957,
+    "avatar": null,
+    "starred_repos": [
+      "cann/hccl"
+    ]
+  },
+  {
     "user_name": "zhou_zhiyuan",
     "nick_name": "zhou_zhiyuan",
     "user_id": 1080582,
@@ -64090,7 +64337,7 @@
     ]
   },
   {
-    "user_name": "j00808874",
+    "user_name": "jiangchanghong",
     "nick_name": "长宏大哥",
     "user_id": 7158722,
     "avatar": "https://cdn-img.gitcode.com/fe/ed/fe92670e524d139c3b2c59dec30f257a93c9e1168d6ff351ec310095a85763c9.png",
@@ -66826,6 +67073,15 @@
     ]
   },
   {
+    "user_name": "baikai233",
+    "nick_name": "baikai233",
+    "user_id": 10622285,
+    "avatar": "https://cdn-img.gitcode.com/ae/cc/a6313ec6707cc29b1f0b44cd4cbe0c32b8d0ea82a54752ff62a55d5dcfab0fd3.png?time=1786898137460",
+    "starred_repos": [
+      "cann/asc-tools"
+    ]
+  },
+  {
     "user_name": "yang_3597",
     "nick_name": "syy_3597",
     "user_id": 12333368,
@@ -67128,7 +67384,7 @@
     "user_name": "ha0v",
     "nick_name": "ha0v",
     "user_id": 12314568,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/ad/ae/57a84d55a49ec0e874b6ccc7b2a07975e0cdd35c95d2e9c7dc6d89a3d8834849.png?time=1786881090899",
     "starred_repos": [
       "cann/infrastructure"
     ]
@@ -67138,15 +67394,6 @@
     "nick_name": "地才",
     "user_id": 12336021,
     "avatar": "https://cdn-img.gitcode.com/bb/ac/b463b9ac71e96b42bc5fe360aab09e598a1b3f05f7c97b93323da60f3610b58d.jpg",
-    "starred_repos": [
-      "cann/infrastructure"
-    ]
-  },
-  {
-    "user_name": "luby260226",
-    "nick_name": "luby260226",
-    "user_id": 10193059,
-    "avatar": null,
     "starred_repos": [
       "cann/infrastructure"
     ]
@@ -67654,7 +67901,8 @@
     "user_id": 425158,
     "avatar": "https://cdn-img.gitcode.com/af/cb/34a73f05c03bdaf7c7ddbaab9d24d01d92c1763bd2386b99fbc9fd721a48b63d.png?time=1769331639214",
     "starred_repos": [
-      "cann/cann-bench"
+      "cann/cann-bench",
+      "cann/cannbot-dsl"
     ]
   },
   {
@@ -67743,15 +67991,6 @@
     "nick_name": "dwx1218156",
     "user_id": 11586967,
     "avatar": null,
-    "starred_repos": [
-      "cann/ops-test-kit"
-    ]
-  },
-  {
-    "user_name": "HertzHan",
-    "nick_name": "HertzHan",
-    "user_id": 6672706,
-    "avatar": "https://cdn-img.gitcode.com/bc/dd/3b679cdda838a0512fac02d9dab0300ceeb4de8f8a66acfc55855742f4657936.png?time=1778660750947",
     "starred_repos": [
       "cann/ops-test-kit"
     ]
@@ -68604,6 +68843,15 @@
     ]
   },
   {
+    "user_name": "ZTianci",
+    "nick_name": "TheSky",
+    "user_id": 1960782,
+    "avatar": "https://cdn-img.gitcode.com/cb/aa/c12322baac5bbdd59846177be3a8d3dc64e291f178bc83a7a0a49a3f10fa8aa6.jpg",
+    "starred_repos": [
+      "cann/cannbot-dsl"
+    ]
+  },
+  {
     "user_name": "ChoephelDorjee",
     "nick_name": "ChoephelDorjee",
     "user_id": 12000744,
@@ -68628,15 +68876,6 @@
     "avatar": "https://cdn-img.gitcode.com/fe/aa/034fea022156aae09fd990d64bb95d8d91858e2a0679e08e533448af9c2d1bb8.png",
     "starred_repos": [
       "cann/elec-ops-prediction"
-    ]
-  },
-  {
-    "user_name": "ZTianci",
-    "nick_name": "TheSky",
-    "user_id": 1960782,
-    "avatar": "https://cdn-img.gitcode.com/cb/aa/c12322baac5bbdd59846177be3a8d3dc64e291f178bc83a7a0a49a3f10fa8aa6.jpg",
-    "starred_repos": [
-      "cann/cannbot-dsl"
     ]
   },
   {
