@@ -1,9 +1,17 @@
 [
   {
-    "iid": 160,
-    "state": "opened",
-    "created_at": "2026-08-18",
+    "iid": 161,
+    "state": "closed",
+    "created_at": "2026-08-19",
     "merged_at": "",
+    "closed_at": "2026-08-19",
+    "author": "AYingGe_"
+  },
+  {
+    "iid": 160,
+    "state": "merged",
+    "created_at": "2026-08-18",
+    "merged_at": "2026-08-19",
     "closed_at": "",
     "author": "li-yuanjie-da"
   },
