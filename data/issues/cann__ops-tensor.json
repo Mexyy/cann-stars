@@ -1,5 +1,12 @@
 [
   {
+    "iid": 180,
+    "state": "closed",
+    "created_at": "2026-08-20",
+    "closed_at": "2026-08-20",
+    "author": "zhangtianrong"
+  },
+  {
     "iid": 179,
     "state": "opened",
     "created_at": "2026-08-19",
@@ -57,9 +64,9 @@
   },
   {
     "iid": 171,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-08-15",
-    "closed_at": "",
+    "closed_at": "2026-08-20",
     "author": "cxx03"
   },
   {
@@ -813,9 +820,9 @@
   },
   {
     "iid": 62,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-01",
-    "closed_at": "",
+    "closed_at": "2026-08-20",
     "author": "sxb154714"
   },
   {
