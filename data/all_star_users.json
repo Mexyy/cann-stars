@@ -1,5 +1,191 @@
 [
   {
+    "user_name": "sai81",
+    "nick_name": "sai81",
+    "user_id": 2803290,
+    "avatar": "https://cdn-img.gitcode.com/cf/da/cf07495d96a3de05b943ce61cd3a61f7a2cfb0ce282aaf5af62a975bab633f05.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-infer",
+      "cann/pypto",
+      "cann/hixl",
+      "cann/community",
+      "cann/asc-devkit",
+      "cann/ge",
+      "cann/opbase",
+      "cann/graph-autofusion",
+      "cann/cann-samples",
+      "cann/runtime",
+      "cann/ops-cv",
+      "cann/catlass",
+      "cann/cann-recipes-train",
+      "cann/metadef",
+      "cann/torchtitan-npu",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/atvoss",
+      "cann/driver",
+      "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/infrastructure",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/shmem",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/cann-bench",
+      "cann/ops-test-kit",
+      "cann/cann-outreach",
+      "cann/ops-blas",
+      "cann/ops-tensor",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/cmake",
+      "cann/catccos",
+      "cann/tensorflow",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
+      "cann/xla-npu",
+      "cann/cannbot-dsl",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/ops-fft",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/elec-ops-simulation",
+      "cann/ops-multimodal-fusion",
+      "cann/manifest",
+      "cann/docs",
+      "cann/asc-comm",
+      "cann/gauss-splat",
+      "cann/ops-gnn",
+      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
+      "cann/its-trip",
+      "cann/ops-ras"
+    ]
+  },
+  {
+    "user_name": "m0_70267477",
+    "nick_name": "鸡你太美123",
+    "user_id": 472417,
+    "avatar": "https://cdn-img.gitcode.com/fc/ec/182fcecc521b02ed78c952def3c4f3f546858ef7fdab65b8422155f3e6b269ca.png",
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn",
+      "cann/cann-learning-hub",
+      "cann/cann-recipes-infer",
+      "cann/pypto",
+      "cann/hixl",
+      "cann/community",
+      "cann/asc-devkit",
+      "cann/ge",
+      "cann/opbase",
+      "cann/graph-autofusion",
+      "cann/cann-samples",
+      "cann/runtime",
+      "cann/ops-cv",
+      "cann/catlass",
+      "cann/cann-recipes-train",
+      "cann/metadef",
+      "cann/torchtitan-npu",
+      "cann/hccl",
+      "cann/hcomm",
+      "cann/pto-isa",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/atvoss",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/pypto-gym",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/infrastructure",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/shmem",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/cann-bench",
+      "cann/ops-test-kit",
+      "cann/cann-outreach",
+      "cann/ops-blas",
+      "cann/ops-tensor",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/cmake",
+      "cann/catccos",
+      "cann/tensorflow",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
+      "cann/xla-npu",
+      "cann/ops-collections",
+      "cann/cannbot-dsl",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/ops-fft",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/elec-ops-simulation",
+      "cann/ops-multimodal-fusion",
+      "cann/manifest",
+      "cann/docs",
+      "cann/asc-comm",
+      "cann/gauss-splat",
+      "cann/ops-gnn",
+      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
+      "cann/its-trip",
+      "cann/ops-ras"
+    ]
+  },
+  {
+    "user_name": "ggg_0963",
+    "nick_name": "ggg_0963",
+    "user_id": 11246078,
+    "avatar": "https://cdn-img.gitcode.com/ff/da/4750ffd8252acfa54ebe6e07a8236b4ce8055ee6089b12880e018c2e8c681594.png?time=1778805408608",
+    "starred_repos": [
+      "cann/cannbot-skills"
+    ]
+  },
+  {
+    "user_name": "caorenlei",
+    "nick_name": "caorenlei",
+    "user_id": 7041271,
+    "avatar": null,
+    "starred_repos": [
+      "cann/cannbot-skills",
+      "cann/ops-nn",
+      "cann/cann-recipes-infer",
+      "cann/cann-samples"
+    ]
+  },
+  {
     "user_name": "gcw_l060oqx8",
     "nick_name": "zjl5071",
     "user_id": 11069575,
@@ -158,8 +344,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
       "cann/its-stable-llm",
+      "cann/its-trip",
       "cann/ops-ras"
     ]
   },
@@ -232,6 +418,7 @@
       "cann/ops-math",
       "cann/ops-nn",
       "cann/cann-learning-hub",
+      "cann/cann-recipes-infer",
       "cann/cann-samples",
       "cann/cann-ops-competitions",
       "cann/cann-bench"
@@ -429,8 +616,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
       "cann/its-stable-llm",
+      "cann/its-trip",
       "cann/ops-ras"
     ]
   },
@@ -1068,8 +1255,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
-      "cann/its-stable-llm"
+      "cann/its-stable-llm",
+      "cann/its-trip"
     ]
   },
   {
@@ -1175,8 +1362,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
-      "cann/its-stable-llm"
+      "cann/its-stable-llm",
+      "cann/its-trip"
     ]
   },
   {
@@ -1258,8 +1445,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
-      "cann/its-stable-llm"
+      "cann/its-stable-llm",
+      "cann/its-trip"
     ]
   },
   {
@@ -1707,6 +1894,7 @@
       "cann/ops-transformer",
       "cann/ops-nn",
       "cann/graph-autofusion",
+      "cann/runtime",
       "cann/ascend-transformer-boost",
       "cann/docs"
     ]
@@ -2231,8 +2419,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
-      "cann/its-stable-llm"
+      "cann/its-stable-llm",
+      "cann/its-trip"
     ]
   },
   {
@@ -2283,7 +2471,7 @@
       "cann/cann-samples",
       "cann/ops-cv",
       "cann/catlass",
-      "cann/hcomm",
+      "cann/hccl",
       "cann/oam-tools",
       "cann/atvoss",
       "cann/ops-test-kit"
@@ -2708,83 +2896,6 @@
     "avatar": "",
     "starred_repos": [
       "cann/cannbot-skills"
-    ]
-  },
-  {
-    "user_name": "gcw_WJCkAUuk",
-    "nick_name": "Jiyg",
-    "user_id": 9698957,
-    "avatar": "",
-    "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/ops-nn",
-      "cann/cann-learning-hub",
-      "cann/cann-recipes-infer",
-      "cann/pypto",
-      "cann/hixl",
-      "cann/community",
-      "cann/asc-devkit",
-      "cann/ge",
-      "cann/opbase",
-      "cann/graph-autofusion",
-      "cann/cann-samples",
-      "cann/runtime",
-      "cann/ops-cv",
-      "cann/catlass",
-      "cann/cann-recipes-train",
-      "cann/metadef",
-      "cann/torchtitan-npu",
-      "cann/hccl",
-      "cann/hcomm",
-      "cann/pto-isa",
-      "cann/ascend-transformer-boost",
-      "cann/pyasc",
-      "cann/asnumpy",
-      "cann/amct",
-      "cann/oam-tools",
-      "cann/atvoss",
-      "cann/driver",
-      "cann/cann-recipes-embodied-ai",
-      "cann/triton-inference-server-ge-backend",
-      "cann/pypto-gym",
-      "cann/asc-tools",
-      "cann/sip",
-      "cann/cann-recipes-harmony-infer",
-      "cann/infrastructure",
-      "cann/cann-recipes-spatial-intelligence",
-      "cann/ascend-boost-comm",
-      "cann/atvc",
-      "cann/shmem",
-      "cann/release-management",
-      "cann/cann-ops-competitions",
-      "cann/cann-bench",
-      "cann/ops-test-kit",
-      "cann/cann-outreach",
-      "cann/ops-blas",
-      "cann/ops-tensor",
-      "cann/ops-sparse",
-      "cann/cann-launch-camp",
-      "cann/cmake",
-      "cann/catccos",
-      "cann/tensorflow",
-      "cann/mat-chem-sim-pred",
-      "cann/ops-solver",
-      "cann/xla-npu",
-      "cann/ops-collections",
-      "cann/elec-ops-inspection",
-      "cann/elec-ops-prediction",
-      "cann/ops-fft",
-      "cann/.gitcode",
-      "cann/ops-rand",
-      "cann/cann-spack-package",
-      "cann/asnumpy-docs",
-      "cann/elec-ops-simulation",
-      "cann/ops-multimodal-fusion",
-      "cann/manifest",
-      "cann/docs",
-      "cann/ops-gnn"
     ]
   },
   {
@@ -4038,18 +4149,6 @@
     ]
   },
   {
-    "user_name": "caorenlei",
-    "nick_name": "caorenlei",
-    "user_id": 7041271,
-    "avatar": null,
-    "starred_repos": [
-      "cann/cannbot-skills",
-      "cann/ops-nn",
-      "cann/cann-recipes-infer",
-      "cann/cann-samples"
-    ]
-  },
-  {
     "user_name": "npu_2023_hzy",
     "nick_name": "npu_2023_hzy",
     "user_id": 3479558,
@@ -4085,7 +4184,8 @@
     "avatar": "https://cdn-img.gitcode.com/fe/ea/773fe66050e46acd6f4b09d4e64bcc3d274cd7f8e1da2b96abfa45539692911b.jpg",
     "starred_repos": [
       "cann/cannbot-skills",
-      "cann/hixl"
+      "cann/hixl",
+      "cann/oam-tools"
     ]
   },
   {
@@ -6861,7 +6961,6 @@
     "starred_repos": [
       "cann/cannbot-skills",
       "cann/ops-transformer",
-      "cann/pypto",
       "cann/ge",
       "cann/metadef",
       "cann/pypto-gym"
@@ -7204,8 +7303,8 @@
       "cann/gauss-splat",
       "cann/ops-gnn",
       "cann/its-matrix-computation",
-      "cann/its-trip",
-      "cann/its-stable-llm"
+      "cann/its-stable-llm",
+      "cann/its-trip"
     ]
   },
   {
@@ -7884,6 +7983,7 @@
       "cann/shmem",
       "cann/cann-ops-competitions",
       "cann/ops-test-kit",
+      "cann/cann-outreach",
       "cann/ops-blas",
       "cann/ops-tensor",
       "cann/ops-sparse",
@@ -14471,7 +14571,7 @@
     "user_name": "qq_36125367",
     "nick_name": "_bale",
     "user_id": 9135787,
-    "avatar": null,
+    "avatar": "https://cdn-img.gitcode.com/ca/db/209385068c28ad018bca7f66067e82bfe67d2ba52ad54bb9ef7984efb8d811d4.png?time=1787370441676",
     "starred_repos": [
       "cann/cannbot-skills"
     ]
@@ -17620,7 +17720,8 @@
       "cann/ge",
       "cann/cann-samples",
       "cann/ops-cv",
-      "cann/atvoss"
+      "cann/atvoss",
+      "cann/ops-test-kit"
     ]
   },
   {
@@ -18492,7 +18593,7 @@
   },
   {
     "user_name": "bjisdbvjhbsdvk",
-    "nick_name": "test",
+    "nick_name": "Hq",
     "user_id": 7209076,
     "avatar": "https://cdn-img.gitcode.com/fe/cd/f5e202c724d438dd1adbf84dceb19978113165c75f707ed50eba7eff7e4f2808.jpg",
     "starred_repos": [
@@ -21130,6 +21231,17 @@
     ]
   },
   {
+    "user_name": "ChipCamp",
+    "nick_name": "ChipCamp",
+    "user_id": 5972130,
+    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
+    "starred_repos": [
+      "cann/ops-math",
+      "cann/ops-transformer",
+      "cann/ops-nn"
+    ]
+  },
+  {
     "user_name": "bskfff",
     "nick_name": "bskfff",
     "user_id": 12291215,
@@ -21140,6 +21252,7 @@
       "cann/ops-nn",
       "cann/cann-recipes-infer",
       "cann/pypto",
+      "cann/hixl",
       "cann/ge",
       "cann/runtime",
       "cann/torchtitan-npu",
@@ -21150,17 +21263,6 @@
       "cann/cann-ops-competitions",
       "cann/cann-bench",
       "cann/asc-comm"
-    ]
-  },
-  {
-    "user_name": "ChipCamp",
-    "nick_name": "ChipCamp",
-    "user_id": 5972130,
-    "avatar": "https://cdn-img.gitcode.com/bc/dc/b0c74280778d4cfae90d279d8d770561e60e3fcecf6a9e048d66447807ab8527.png?time=1750769939438",
-    "starred_repos": [
-      "cann/ops-math",
-      "cann/ops-transformer",
-      "cann/ops-nn"
     ]
   },
   {
@@ -34500,6 +34602,15 @@
     ]
   },
   {
+    "user_name": "gcw_bWjWWbK0",
+    "nick_name": "zhixuan-zxli",
+    "user_id": 5762506,
+    "avatar": "",
+    "starred_repos": [
+      "cann/ops-transformer"
+    ]
+  },
+  {
     "user_name": "moyuchenxin",
     "nick_name": "DreamStar",
     "user_id": 2681466,
@@ -38025,6 +38136,7 @@
       "cann/ops-cv",
       "cann/catlass",
       "cann/oam-tools",
+      "cann/shmem",
       "cann/ops-test-kit",
       "cann/ops-fft",
       "cann/docs",
@@ -40278,6 +40390,24 @@
     ]
   },
   {
+    "user_name": "H8N8L8",
+    "nick_name": "逍遥散熊",
+    "user_id": 12391189,
+    "avatar": "https://cdn-img.gitcode.com/be/fb/be4fbf48bce7735e9ae070afcfc3e6d345fa2389e48a6e86730aeafc3c82f42a.jpg",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "fingerballet",
+    "nick_name": "magicbowen",
+    "user_id": 2786410,
+    "avatar": "https://cdn-img.gitcode.com/fb/dc/086847f1b54dc7c72bb449e161be6a33b97f5df2349ce9bc830de44fc9166196.png?time=1763774806609",
+    "starred_repos": [
+      "cann/cann-learning-hub"
+    ]
+  },
+  {
     "user_name": "Mcdulle_NH3_OH_N111",
     "nick_name": "Mcdulle_NH3_OH_N",
     "user_id": 1332621,
@@ -40292,7 +40422,8 @@
     "user_id": 3900097,
     "avatar": "https://cdn-img.gitcode.com/cb/aa/c85ba224ad0109576b17ad6c75e52d6ba8058e8714819adf015ad6e7d51be5ba.png",
     "starred_repos": [
-      "cann/cann-learning-hub"
+      "cann/cann-learning-hub",
+      "cann/cann-ops-competitions"
     ]
   },
   {
@@ -43706,6 +43837,68 @@
     "avatar": "https://cdn-img.gitcode.com/bc/ac/415b57c2997243a2478c5ba81502203d3f0861856c3566fd1f82d70a927a0720.png",
     "starred_repos": [
       "cann/cann-learning-hub"
+    ]
+  },
+  {
+    "user_name": "gcw_WJCkAUuk",
+    "nick_name": "Jiyg",
+    "user_id": 9698957,
+    "avatar": "",
+    "starred_repos": [
+      "cann/cann-learning-hub",
+      "cann/community",
+      "cann/opbase",
+      "cann/cann-samples",
+      "cann/catlass",
+      "cann/cann-recipes-train",
+      "cann/metadef",
+      "cann/ascend-transformer-boost",
+      "cann/pyasc",
+      "cann/asnumpy",
+      "cann/amct",
+      "cann/oam-tools",
+      "cann/atvoss",
+      "cann/driver",
+      "cann/cann-recipes-embodied-ai",
+      "cann/triton-inference-server-ge-backend",
+      "cann/asc-tools",
+      "cann/sip",
+      "cann/cann-recipes-harmony-infer",
+      "cann/infrastructure",
+      "cann/cann-recipes-spatial-intelligence",
+      "cann/ascend-boost-comm",
+      "cann/atvc",
+      "cann/release-management",
+      "cann/cann-ops-competitions",
+      "cann/cann-bench",
+      "cann/ops-test-kit",
+      "cann/ops-blas",
+      "cann/ops-sparse",
+      "cann/cann-launch-camp",
+      "cann/cmake",
+      "cann/catccos",
+      "cann/tensorflow",
+      "cann/mat-chem-sim-pred",
+      "cann/ops-solver",
+      "cann/xla-npu",
+      "cann/ops-collections",
+      "cann/cannbot-dsl",
+      "cann/elec-ops-inspection",
+      "cann/elec-ops-prediction",
+      "cann/ops-fft",
+      "cann/.gitcode",
+      "cann/ops-rand",
+      "cann/cann-spack-package",
+      "cann/asnumpy-docs",
+      "cann/elec-ops-simulation",
+      "cann/ops-multimodal-fusion",
+      "cann/manifest",
+      "cann/docs",
+      "cann/gauss-splat",
+      "cann/ops-gnn",
+      "cann/its-matrix-computation",
+      "cann/its-stable-llm",
+      "cann/ops-ras"
     ]
   },
   {
@@ -61440,6 +61633,15 @@
     ]
   },
   {
+    "user_name": "zwymaomao",
+    "nick_name": "zhengweiyan",
+    "user_id": 9032524,
+    "avatar": "https://cdn-img.gitcode.com/ae/ca/1ae7ca40e73644325642c4f9160e5f4294a6f8283d97766d1066f010af24e85c.png",
+    "starred_repos": [
+      "cann/catlass"
+    ]
+  },
+  {
     "user_name": "arusso",
     "nick_name": "Alessio Russo",
     "user_id": 10083464,
@@ -62343,6 +62545,15 @@
       "cann/catlass",
       "cann/shmem",
       "cann/catccos"
+    ]
+  },
+  {
+    "user_name": "weixin_45019461",
+    "nick_name": "weixin_45019461",
+    "user_id": 822691,
+    "avatar": "https://cdn-img.gitcode.com/ed/aa/39ed47a84aa775948fe8dbb32c5d171e21e1d828bafb708b8e81721c54358a39.jpg",
+    "starred_repos": [
+      "cann/cann-recipes-train"
     ]
   },
   {
@@ -65551,7 +65762,7 @@
   },
   {
     "user_name": "qq_45577430",
-    "nick_name": "LiuHongming",
+    "nick_name": "刘宏明",
     "user_id": 5410378,
     "avatar": "https://cdn-img.gitcode.com/ce/bf/c2437e8b7fad898e19a5d3a96546bbf190ff861519096e14f8e24b7eec563ae4.png",
     "starred_repos": [
