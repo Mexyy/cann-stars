@@ -1,5 +1,29 @@
 [
   {
+    "iid": 766,
+    "state": "opened",
+    "created_at": "2026-08-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ascendhjh"
+  },
+  {
+    "iid": 765,
+    "state": "merged",
+    "created_at": "2026-08-24",
+    "merged_at": "2026-08-24",
+    "closed_at": "",
+    "author": "east_yang"
+  },
+  {
+    "iid": 764,
+    "state": "opened",
+    "created_at": "2026-08-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ad_cx"
+  },
+  {
     "iid": 763,
     "state": "closed",
     "created_at": "2026-08-22",
@@ -57,9 +81,9 @@
   },
   {
     "iid": 756,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-21",
-    "merged_at": "",
+    "merged_at": "2026-08-24",
     "closed_at": "",
     "author": "cong-jiyu"
   },
@@ -89,9 +113,9 @@
   },
   {
     "iid": 752,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-18",
-    "merged_at": "",
+    "merged_at": "2026-08-24",
     "closed_at": "",
     "author": "MionLAN"
   },
@@ -1297,10 +1321,10 @@
   },
   {
     "iid": 601,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-06-15",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-24",
     "author": "gcw_NcEfY7mt"
   },
   {

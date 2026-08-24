@@ -1,5 +1,21 @@
 [
   {
+    "iid": 308,
+    "state": "opened",
+    "created_at": "2026-08-24",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "KaranocaVe"
+  },
+  {
+    "iid": 307,
+    "state": "opened",
+    "created_at": "2026-08-23",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "2403_87936996"
+  },
+  {
     "iid": 306,
     "state": "merged",
     "created_at": "2026-08-17",
@@ -25,9 +41,9 @@
   },
   {
     "iid": 303,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-11",
-    "merged_at": "",
+    "merged_at": "2026-08-24",
     "closed_at": "",
     "author": "ninihihi"
   },
