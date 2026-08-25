@@ -1,9 +1,17 @@
 [
   {
-    "iid": 766,
+    "iid": 767,
     "state": "opened",
-    "created_at": "2026-08-24",
+    "created_at": "2026-08-25",
     "merged_at": "",
+    "closed_at": "",
+    "author": "shi-dingkun"
+  },
+  {
+    "iid": 766,
+    "state": "merged",
+    "created_at": "2026-08-24",
+    "merged_at": "2026-08-25",
     "closed_at": "",
     "author": "ascendhjh"
   },
@@ -17,9 +25,9 @@
   },
   {
     "iid": 764,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-24",
-    "merged_at": "",
+    "merged_at": "2026-08-25",
     "closed_at": "",
     "author": "ad_cx"
   },
@@ -33,9 +41,9 @@
   },
   {
     "iid": 762,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-22",
-    "merged_at": "",
+    "merged_at": "2026-08-25",
     "closed_at": "",
     "author": "2403_87936996"
   },
@@ -185,9 +193,9 @@
   },
   {
     "iid": 743,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-14",
-    "merged_at": "",
+    "merged_at": "2026-08-25",
     "closed_at": "",
     "author": "gitee-duhuiping"
   },
