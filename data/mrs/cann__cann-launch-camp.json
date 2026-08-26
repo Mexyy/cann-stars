@@ -1,5 +1,13 @@
 [
   {
+    "iid": 512,
+    "state": "opened",
+    "created_at": "2026-08-26",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "Augustine0628"
+  },
+  {
     "iid": 511,
     "state": "opened",
     "created_at": "2026-08-24",
@@ -185,10 +193,10 @@
   },
   {
     "iid": 488,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-07-31",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-08-26",
     "author": "magicjason0007"
   },
   {
