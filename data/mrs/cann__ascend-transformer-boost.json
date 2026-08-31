@@ -1,5 +1,13 @@
 [
   {
+    "iid": 2228,
+    "state": "closed",
+    "created_at": "2026-08-30",
+    "merged_at": "",
+    "closed_at": "2026-08-30",
+    "author": "dlmmld-bei"
+  },
+  {
     "iid": 2227,
     "state": "closed",
     "created_at": "2026-08-29",
@@ -17,9 +25,9 @@
   },
   {
     "iid": 2225,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-28",
-    "merged_at": "",
+    "merged_at": "2026-08-31",
     "closed_at": "",
     "author": "ninihihi"
   },
