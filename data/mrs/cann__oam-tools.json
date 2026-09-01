@@ -1,5 +1,13 @@
 [
   {
+    "iid": 566,
+    "state": "opened",
+    "created_at": "2026-09-01",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "qinhan123"
+  },
+  {
     "iid": 565,
     "state": "opened",
     "created_at": "2026-08-31",
@@ -33,9 +41,9 @@
   },
   {
     "iid": 561,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-31",
-    "merged_at": "",
+    "merged_at": "2026-09-01",
     "closed_at": "",
     "author": "imaginationhh"
   },
@@ -161,9 +169,9 @@
   },
   {
     "iid": 545,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-27",
-    "merged_at": "",
+    "merged_at": "2026-09-01",
     "closed_at": "",
     "author": "starchen_"
   },

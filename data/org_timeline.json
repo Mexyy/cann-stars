@@ -13,8 +13,8 @@
     "month": "2025-10",
     "new_stars": 919,
     "cumulative": 2692,
-    "contributor": 439,
-    "questioner": 114,
+    "contributor": 438,
+    "questioner": 115,
     "developer": 144,
     "star_enthusiast": 132,
     "die_hard_fan": 90
@@ -51,9 +51,9 @@
   },
   {
     "month": "2026-02",
-    "new_stars": 505,
-    "cumulative": 11366,
-    "contributor": 303,
+    "new_stars": 504,
+    "cumulative": 11365,
+    "contributor": 302,
     "questioner": 51,
     "developer": 52,
     "star_enthusiast": 56,
@@ -62,7 +62,7 @@
   {
     "month": "2026-03",
     "new_stars": 1016,
-    "cumulative": 12382,
+    "cumulative": 12381,
     "contributor": 524,
     "questioner": 81,
     "developer": 183,
@@ -72,9 +72,9 @@
   {
     "month": "2026-04",
     "new_stars": 993,
-    "cumulative": 13375,
-    "contributor": 401,
-    "questioner": 105,
+    "cumulative": 13374,
+    "contributor": 399,
+    "questioner": 107,
     "developer": 171,
     "star_enthusiast": 99,
     "die_hard_fan": 217
@@ -82,41 +82,51 @@
   {
     "month": "2026-05",
     "new_stars": 1785,
-    "cumulative": 15160,
-    "contributor": 477,
-    "questioner": 129,
+    "cumulative": 15159,
+    "contributor": 478,
+    "questioner": 128,
     "developer": 373,
     "star_enthusiast": 249,
     "die_hard_fan": 557
   },
   {
     "month": "2026-06",
-    "new_stars": 2956,
-    "cumulative": 18116,
+    "new_stars": 2955,
+    "cumulative": 18114,
     "contributor": 565,
     "questioner": 275,
-    "developer": 870,
+    "developer": 869,
     "star_enthusiast": 678,
     "die_hard_fan": 568
   },
   {
     "month": "2026-07",
-    "new_stars": 2804,
-    "cumulative": 20920,
-    "contributor": 590,
-    "questioner": 372,
-    "developer": 746,
+    "new_stars": 2802,
+    "cumulative": 20916,
+    "contributor": 588,
+    "questioner": 374,
+    "developer": 745,
     "star_enthusiast": 506,
-    "die_hard_fan": 590
+    "die_hard_fan": 589
   },
   {
     "month": "2026-08",
-    "new_stars": 3557,
-    "cumulative": 24477,
-    "contributor": 985,
-    "questioner": 259,
-    "developer": 590,
+    "new_stars": 3618,
+    "cumulative": 24534,
+    "contributor": 987,
+    "questioner": 320,
+    "developer": 586,
     "star_enthusiast": 1266,
-    "die_hard_fan": 457
+    "die_hard_fan": 459
+  },
+  {
+    "month": "2026-09",
+    "new_stars": 147,
+    "cumulative": 24681,
+    "contributor": 109,
+    "questioner": 0,
+    "developer": 7,
+    "star_enthusiast": 8,
+    "die_hard_fan": 23
   }
 ]
