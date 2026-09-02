@@ -1,9 +1,16 @@
 [
   {
-    "iid": 347,
+    "iid": 348,
     "state": "opened",
-    "created_at": "2026-09-01",
+    "created_at": "2026-09-02",
     "closed_at": "",
+    "author": "songkai111"
+  },
+  {
+    "iid": 347,
+    "state": "closed",
+    "created_at": "2026-09-01",
+    "closed_at": "2026-09-02",
     "author": "ren-botao"
   },
   {
@@ -15,23 +22,23 @@
   },
   {
     "iid": 345,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "ren-botao"
   },
   {
     "iid": 344,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "songkai111"
   },
   {
     "iid": 343,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "Sunee"
   },
   {

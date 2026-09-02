@@ -1,9 +1,57 @@
 [
   {
-    "iid": 502,
+    "iid": 508,
     "state": "opened",
-    "created_at": "2026-09-01",
+    "created_at": "2026-09-02",
     "merged_at": "",
+    "closed_at": "",
+    "author": "songxiujing"
+  },
+  {
+    "iid": 507,
+    "state": "opened",
+    "created_at": "2026-09-02",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "wangxingdi"
+  },
+  {
+    "iid": 506,
+    "state": "opened",
+    "created_at": "2026-09-02",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ning_x"
+  },
+  {
+    "iid": 505,
+    "state": "merged",
+    "created_at": "2026-09-02",
+    "merged_at": "2026-09-02",
+    "closed_at": "",
+    "author": "ApeiriaNode_Booker"
+  },
+  {
+    "iid": 504,
+    "state": "opened",
+    "created_at": "2026-09-02",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "chentianyu19"
+  },
+  {
+    "iid": 503,
+    "state": "opened",
+    "created_at": "2026-09-02",
+    "merged_at": "",
+    "closed_at": "",
+    "author": "ChenZhoujie"
+  },
+  {
+    "iid": 502,
+    "state": "merged",
+    "created_at": "2026-09-01",
+    "merged_at": "2026-09-02",
     "closed_at": "",
     "author": "chenyiyuan"
   },
@@ -25,10 +73,10 @@
   },
   {
     "iid": 499,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "chentianyu19"
   },
   {
@@ -41,18 +89,18 @@
   },
   {
     "iid": 497,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "2401_86843830"
   },
   {
     "iid": 496,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-01",
     "merged_at": "",
-    "closed_at": "",
+    "closed_at": "2026-09-02",
     "author": "zhanglong99"
   },
   {
@@ -153,9 +201,9 @@
   },
   {
     "iid": 483,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-30",
-    "merged_at": "",
+    "merged_at": "2026-09-02",
     "closed_at": "",
     "author": "chentianyu19"
   },
@@ -177,9 +225,9 @@
   },
   {
     "iid": 480,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-29",
-    "merged_at": "",
+    "merged_at": "2026-09-02",
     "closed_at": "",
     "author": "chupeng1996"
   },
@@ -385,9 +433,9 @@
   },
   {
     "iid": 454,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-25",
-    "merged_at": "",
+    "merged_at": "2026-09-02",
     "closed_at": "",
     "author": "qinhan123"
   },
@@ -457,9 +505,9 @@
   },
   {
     "iid": 445,
-    "state": "opened",
+    "state": "merged",
     "created_at": "2026-08-21",
-    "merged_at": "",
+    "merged_at": "2026-09-02",
     "closed_at": "",
     "author": "m0_56712298"
   },
