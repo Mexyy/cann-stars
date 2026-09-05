@@ -1,5 +1,810 @@
 [
   {
+    "iid": 198,
+    "state": "closed",
+    "created_at": "2026-08-29",
+    "closed_at": "2026-08-29",
+    "author": "starchen_"
+  },
+  {
+    "iid": 197,
+    "state": "closed",
+    "created_at": "2026-08-28",
+    "closed_at": "2026-08-29",
+    "author": "maria_cj"
+  },
+  {
+    "iid": 196,
+    "state": "opened",
+    "created_at": "2026-08-27",
+    "closed_at": "",
+    "author": "GuoWenbo"
+  },
+  {
+    "iid": 195,
+    "state": "opened",
+    "created_at": "2026-08-26",
+    "closed_at": "",
+    "author": "yu_liangbin"
+  },
+  {
+    "iid": 194,
+    "state": "closed",
+    "created_at": "2026-08-25",
+    "closed_at": "2026-09-01",
+    "author": "starchen_"
+  },
+  {
+    "iid": 193,
+    "state": "closed",
+    "created_at": "2026-08-25",
+    "closed_at": "2026-08-26",
+    "author": "starchen_"
+  },
+  {
+    "iid": 192,
+    "state": "closed",
+    "created_at": "2026-08-24",
+    "closed_at": "2026-08-31",
+    "author": "KaranocaVe"
+  },
+  {
+    "iid": 191,
+    "state": "closed",
+    "created_at": "2026-08-18",
+    "closed_at": "2026-08-26",
+    "author": "SoraAzzz"
+  },
+  {
+    "iid": 190,
+    "state": "opened",
+    "created_at": "2026-08-18",
+    "closed_at": "",
+    "author": "chenjunhong6"
+  },
+  {
+    "iid": 189,
+    "state": "closed",
+    "created_at": "2026-08-18",
+    "closed_at": "2026-08-29",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 188,
+    "state": "closed",
+    "created_at": "2026-08-14",
+    "closed_at": "2026-08-27",
+    "author": "syaunfang"
+  },
+  {
+    "iid": 187,
+    "state": "closed",
+    "created_at": "2026-08-14",
+    "closed_at": "2026-08-27",
+    "author": "syaunfang"
+  },
+  {
+    "iid": 186,
+    "state": "closed",
+    "created_at": "2026-08-14",
+    "closed_at": "2026-08-27",
+    "author": "syaunfang"
+  },
+  {
+    "iid": 185,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-24",
+    "author": "wx1050097"
+  },
+  {
+    "iid": 184,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-19",
+    "author": "liuzhuya"
+  },
+  {
+    "iid": 183,
+    "state": "closed",
+    "created_at": "2026-08-12",
+    "closed_at": "2026-08-24",
+    "author": "liuyang2026"
+  },
+  {
+    "iid": 182,
+    "state": "opened",
+    "created_at": "2026-08-11",
+    "closed_at": "",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 181,
+    "state": "closed",
+    "created_at": "2026-08-11",
+    "closed_at": "2026-08-11",
+    "author": "starchen_"
+  },
+  {
+    "iid": 180,
+    "state": "closed",
+    "created_at": "2026-08-07",
+    "closed_at": "2026-08-18",
+    "author": "gcw_PAVrzQ2r"
+  },
+  {
+    "iid": 179,
+    "state": "closed",
+    "created_at": "2026-08-05",
+    "closed_at": "2026-08-30",
+    "author": "Eddie3226"
+  },
+  {
+    "iid": 178,
+    "state": "closed",
+    "created_at": "2026-08-05",
+    "closed_at": "2026-08-31",
+    "author": "Eddie3226"
+  },
+  {
+    "iid": 177,
+    "state": "closed",
+    "created_at": "2026-08-05",
+    "closed_at": "2026-09-03",
+    "author": "Eddie3226"
+  },
+  {
+    "iid": 176,
+    "state": "closed",
+    "created_at": "2026-08-04",
+    "closed_at": "2026-08-04",
+    "author": "starchen_"
+  },
+  {
+    "iid": 175,
+    "state": "closed",
+    "created_at": "2026-07-27",
+    "closed_at": "2026-07-28",
+    "author": "starchen_"
+  },
+  {
+    "iid": 174,
+    "state": "closed",
+    "created_at": "2026-07-25",
+    "closed_at": "2026-08-06",
+    "author": "liuzhuya"
+  },
+  {
+    "iid": 173,
+    "state": "closed",
+    "created_at": "2026-07-23",
+    "closed_at": "2026-07-28",
+    "author": "starchen_"
+  },
+  {
+    "iid": 172,
+    "state": "closed",
+    "created_at": "2026-07-23",
+    "closed_at": "2026-08-06",
+    "author": "starchen_"
+  },
+  {
+    "iid": 171,
+    "state": "closed",
+    "created_at": "2026-07-22",
+    "closed_at": "2026-07-30",
+    "author": "newstarzj"
+  },
+  {
+    "iid": 170,
+    "state": "opened",
+    "created_at": "2026-07-22",
+    "closed_at": "",
+    "author": "claire8090"
+  },
+  {
+    "iid": 169,
+    "state": "closed",
+    "created_at": "2026-07-21",
+    "closed_at": "2026-08-06",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 168,
+    "state": "closed",
+    "created_at": "2026-07-21",
+    "closed_at": "2026-08-18",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 167,
+    "state": "closed",
+    "created_at": "2026-07-20",
+    "closed_at": "2026-07-24",
+    "author": "wangchuang616"
+  },
+  {
+    "iid": 166,
+    "state": "closed",
+    "created_at": "2026-07-17",
+    "closed_at": "2026-07-21",
+    "author": "zhaoyingdong"
+  },
+  {
+    "iid": 165,
+    "state": "closed",
+    "created_at": "2026-07-17",
+    "closed_at": "2026-07-22",
+    "author": "fujun19"
+  },
+  {
+    "iid": 164,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-08-03",
+    "author": "showcase"
+  },
+  {
+    "iid": 163,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-28",
+    "author": "showcase"
+  },
+  {
+    "iid": 162,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-31",
+    "author": "showcase"
+  },
+  {
+    "iid": 161,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-28",
+    "author": "showcase"
+  },
+  {
+    "iid": 160,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-31",
+    "author": "showcase"
+  },
+  {
+    "iid": 159,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-21",
+    "author": "showcase"
+  },
+  {
+    "iid": 158,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-17",
+    "author": "starchen_"
+  },
+  {
+    "iid": 157,
+    "state": "closed",
+    "created_at": "2026-07-16",
+    "closed_at": "2026-07-24",
+    "author": "zzwnew"
+  },
+  {
+    "iid": 156,
+    "state": "closed",
+    "created_at": "2026-07-13",
+    "closed_at": "2026-07-31",
+    "author": "showcase"
+  },
+  {
+    "iid": 155,
+    "state": "closed",
+    "created_at": "2026-07-13",
+    "closed_at": "2026-07-21",
+    "author": "showcase"
+  },
+  {
+    "iid": 154,
+    "state": "closed",
+    "created_at": "2026-07-13",
+    "closed_at": "2026-07-21",
+    "author": "showcase"
+  },
+  {
+    "iid": 153,
+    "state": "closed",
+    "created_at": "2026-07-13",
+    "closed_at": "2026-07-21",
+    "author": "showcase"
+  },
+  {
+    "iid": 152,
+    "state": "closed",
+    "created_at": "2026-07-13",
+    "closed_at": "2026-07-20",
+    "author": "showcase"
+  },
+  {
+    "iid": 151,
+    "state": "opened",
+    "created_at": "2026-07-13",
+    "closed_at": "",
+    "author": "yuanjiang_"
+  },
+  {
+    "iid": 150,
+    "state": "closed",
+    "created_at": "2026-07-10",
+    "closed_at": "2026-07-11",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 149,
+    "state": "closed",
+    "created_at": "2026-07-09",
+    "closed_at": "2026-07-21",
+    "author": "fujun19"
+  },
+  {
+    "iid": 148,
+    "state": "closed",
+    "created_at": "2026-07-07",
+    "closed_at": "2026-07-11",
+    "author": "shaohuiting"
+  },
+  {
+    "iid": 147,
+    "state": "closed",
+    "created_at": "2026-07-03",
+    "closed_at": "2026-07-10",
+    "author": "LQ_OY"
+  },
+  {
+    "iid": 146,
+    "state": "closed",
+    "created_at": "2026-07-03",
+    "closed_at": "2026-07-03",
+    "author": "p15067180621"
+  },
+  {
+    "iid": 145,
+    "state": "closed",
+    "created_at": "2026-07-01",
+    "closed_at": "2026-07-21",
+    "author": "vxz"
+  },
+  {
+    "iid": 144,
+    "state": "closed",
+    "created_at": "2026-06-30",
+    "closed_at": "2026-07-01",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 143,
+    "state": "closed",
+    "created_at": "2026-06-30",
+    "closed_at": "2026-07-01",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 142,
+    "state": "closed",
+    "created_at": "2026-06-30",
+    "closed_at": "2026-07-02",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 141,
+    "state": "closed",
+    "created_at": "2026-06-29",
+    "closed_at": "2026-06-30",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 140,
+    "state": "closed",
+    "created_at": "2026-06-28",
+    "closed_at": "2026-07-10",
+    "author": "2401_86136928"
+  },
+  {
+    "iid": 139,
+    "state": "closed",
+    "created_at": "2026-06-28",
+    "closed_at": "2026-07-07",
+    "author": "2401_86136928"
+  },
+  {
+    "iid": 138,
+    "state": "closed",
+    "created_at": "2026-06-26",
+    "closed_at": "2026-07-02",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 137,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-07-09",
+    "author": "gothizzz"
+  },
+  {
+    "iid": 136,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-07-07",
+    "author": "gothizzz"
+  },
+  {
+    "iid": 135,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-07-07",
+    "author": "gothizzz"
+  },
+  {
+    "iid": 134,
+    "state": "closed",
+    "created_at": "2026-06-25",
+    "closed_at": "2026-07-10",
+    "author": "gothizzz"
+  },
+  {
+    "iid": 132,
+    "state": "closed",
+    "created_at": "2026-06-16",
+    "closed_at": "2026-06-18",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 131,
+    "state": "closed",
+    "created_at": "2026-06-16",
+    "closed_at": "2026-06-23",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 130,
+    "state": "opened",
+    "created_at": "2026-06-15",
+    "closed_at": "",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 129,
+    "state": "opened",
+    "created_at": "2026-06-15",
+    "closed_at": "",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 127,
+    "state": "closed",
+    "created_at": "2026-06-15",
+    "closed_at": "2026-07-02",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 126,
+    "state": "closed",
+    "created_at": "2026-06-13",
+    "closed_at": "2026-06-15",
+    "author": "starchen_"
+  },
+  {
+    "iid": 125,
+    "state": "closed",
+    "created_at": "2026-06-13",
+    "closed_at": "2026-06-15",
+    "author": "starchen_"
+  },
+  {
+    "iid": 124,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-15",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 123,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-15",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 122,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-15",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 121,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-06-15",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 120,
+    "state": "closed",
+    "created_at": "2026-06-12",
+    "closed_at": "2026-07-10",
+    "author": "gothizzz"
+  },
+  {
+    "iid": 119,
+    "state": "closed",
+    "created_at": "2026-06-11",
+    "closed_at": "2026-06-26",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 118,
+    "state": "closed",
+    "created_at": "2026-06-06",
+    "closed_at": "2026-06-15",
+    "author": "zhuangdun"
+  },
+  {
+    "iid": 117,
+    "state": "closed",
+    "created_at": "2026-06-06",
+    "closed_at": "2026-06-08",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 116,
+    "state": "opened",
+    "created_at": "2026-06-06",
+    "closed_at": "",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 115,
+    "state": "closed",
+    "created_at": "2026-06-04",
+    "closed_at": "2026-06-04",
+    "author": "lwx1255555"
+  },
+  {
+    "iid": 114,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-10",
+    "author": "gcw_t7XAbQBD"
+  },
+  {
+    "iid": 113,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-04",
+    "author": "gcw_t7XAbQBD"
+  },
+  {
+    "iid": 112,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-04",
+    "author": "gcw_t7XAbQBD"
+  },
+  {
+    "iid": 111,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-04",
+    "author": "gcw_t7XAbQBD"
+  },
+  {
+    "iid": 110,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-04",
+    "author": "fujun19"
+  },
+  {
+    "iid": 109,
+    "state": "closed",
+    "created_at": "2026-06-03",
+    "closed_at": "2026-06-03",
+    "author": "fujun19"
+  },
+  {
+    "iid": 108,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-09",
+    "author": "newstarzj"
+  },
+  {
+    "iid": 107,
+    "state": "closed",
+    "created_at": "2026-06-02",
+    "closed_at": "2026-06-09",
+    "author": "newstarzj"
+  },
+  {
+    "iid": 106,
+    "state": "closed",
+    "created_at": "2026-05-30",
+    "closed_at": "2026-06-02",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 105,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-06-03",
+    "author": "dlf123456"
+  },
+  {
+    "iid": 104,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-06-01",
+    "author": "starchen_"
+  },
+  {
+    "iid": 103,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-05-29",
+    "author": "starchen_"
+  },
+  {
+    "iid": 102,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-06-02",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 101,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-06-03",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 100,
+    "state": "closed",
+    "created_at": "2026-05-29",
+    "closed_at": "2026-06-10",
+    "author": "m0_45651774"
+  },
+  {
+    "iid": 99,
+    "state": "closed",
+    "created_at": "2026-05-28",
+    "closed_at": "2026-05-30",
+    "author": "zyb_230"
+  },
+  {
+    "iid": 98,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-28",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 97,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-26",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 96,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-28",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 95,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-28",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 94,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-28",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 93,
+    "state": "closed",
+    "created_at": "2026-05-26",
+    "closed_at": "2026-05-26",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 92,
+    "state": "closed",
+    "created_at": "2026-05-25",
+    "closed_at": "2026-05-25",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 91,
+    "state": "closed",
+    "created_at": "2026-05-25",
+    "closed_at": "2026-05-25",
+    "author": "sinat_31531339"
+  },
+  {
+    "iid": 90,
+    "state": "closed",
+    "created_at": "2026-05-22",
+    "closed_at": "2026-05-27",
+    "author": "fujun19"
+  },
+  {
+    "iid": 89,
+    "state": "closed",
+    "created_at": "2026-05-20",
+    "closed_at": "2026-05-21",
+    "author": "starchen_"
+  },
+  {
+    "iid": 88,
+    "state": "closed",
+    "created_at": "2026-05-20",
+    "closed_at": "2026-05-28",
+    "author": "weixin_48190404"
+  },
+  {
+    "iid": 87,
+    "state": "closed",
+    "created_at": "2026-05-19",
+    "closed_at": "2026-05-25",
+    "author": "wx1067232"
+  },
+  {
+    "iid": 86,
+    "state": "closed",
+    "created_at": "2026-05-19",
+    "closed_at": "2026-05-19",
+    "author": "wufeiqi"
+  },
+  {
+    "iid": 85,
+    "state": "closed",
+    "created_at": "2026-05-18",
+    "closed_at": "2026-05-18",
+    "author": "starchen_"
+  },
+  {
+    "iid": 84,
+    "state": "closed",
+    "created_at": "2026-05-15",
+    "closed_at": "2026-05-15",
+    "author": "starchen_"
+  },
+  {
+    "iid": 83,
+    "state": "closed",
+    "created_at": "2026-05-14",
+    "closed_at": "2026-05-14",
+    "author": "jinyingqi"
+  },
+  {
+    "iid": 82,
+    "state": "closed",
+    "created_at": "2026-05-14",
+    "closed_at": "2026-05-15",
+    "author": "starchen_"
+  },
+  {
     "iid": 81,
     "state": "closed",
     "created_at": "2026-05-12",
@@ -8,16 +813,16 @@
   },
   {
     "iid": 80,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "wk0911"
   },
   {
     "iid": 79,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-12",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "gcw_RywTBohB"
   },
   {
@@ -29,9 +834,9 @@
   },
   {
     "iid": 77,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-11",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "gcw_flMANOpz"
   },
   {
@@ -64,23 +869,23 @@
   },
   {
     "iid": 72,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-05-08",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "jinyingqi"
   },
   {
     "iid": 71,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-30",
-    "closed_at": "",
+    "closed_at": "2026-06-17",
     "author": "newstarzj"
   },
   {
     "iid": 70,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-29",
-    "closed_at": "",
+    "closed_at": "2026-05-18",
     "author": "jinyingqi"
   },
   {
@@ -106,16 +911,16 @@
   },
   {
     "iid": 66,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-27",
-    "closed_at": "",
+    "closed_at": "2026-05-15",
     "author": "viciaa"
   },
   {
     "iid": 65,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-04-20",
-    "closed_at": "",
+    "closed_at": "2026-05-25",
     "author": "sinat_31531339"
   },
   {
