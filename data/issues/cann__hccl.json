@@ -1,9 +1,16 @@
 [
   {
-    "iid": 686,
+    "iid": 687,
     "state": "opened",
-    "created_at": "2026-09-04",
+    "created_at": "2026-09-05",
     "closed_at": "",
+    "author": "yanzhenghang"
+  },
+  {
+    "iid": 686,
+    "state": "closed",
+    "created_at": "2026-09-04",
+    "closed_at": "2026-09-05",
     "author": "zhangqian6637"
   },
   {
@@ -29,9 +36,9 @@
   },
   {
     "iid": 682,
-    "state": "opened",
+    "state": "closed",
     "created_at": "2026-09-02",
-    "closed_at": "",
+    "closed_at": "2026-09-05",
     "author": "zhangqian6637"
   },
   {
